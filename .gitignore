@@ -64,6 +64,7 @@ artifacts/
 *.tlh
 *.tmp
 *.tmp_proj
+*.tx
 *.log
 *.vspscc
 *.vssscc
