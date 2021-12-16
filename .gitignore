@@ -4,6 +4,9 @@
 # Working files
 *Working Files/
 
+# Temporary Renders
+images/tmp/
+
 # User-specific files
 *.suo
 *.user
