@@ -9,6 +9,7 @@ images/tmp/
 
 # Remove renders
 Output/
+movies/
 
 # User-specific files
 *.suo
