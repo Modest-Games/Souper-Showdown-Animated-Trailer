@@ -7,6 +7,9 @@
 # Temporary Renders
 images/tmp/
 
+# Remove renders
+Output/
+
 # User-specific files
 *.suo
 *.user
