@@ -1,19 +1,21 @@
 //Maya ASCII 2022 scene
 //Name: shot_6.ma
-//Last modified: Thu, Dec 16, 2021 05:23:12 PM
+//Last modified: Fri, Dec 17, 2021 09:54:24 AM
 //Codeset: 1252
-file -rdi 1 -ns "tp_env" -rfn "tp_envRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Thu, Dec 16, 2021 12:02:29 AM|ICON|undef|INFO|undef|OBJN|338|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
+file -rdi 1 -ns "tp_env" -rfn "tp_envRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Fri, Dec 17, 2021 12:51:57 AM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
 		 -typ "mayaBinary" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Environment/tp_env.mb";
-file -rdi 1 -ns "Carrot" -rfn "CarrotRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Tue, Dec 14, 2021 10:10:19 PM|ICON|undef|INFO|undef|OBJN|194|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
+file -rdi 1 -ns "Carrot" -rfn "CarrotRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Fri, Dec 17, 2021 02:50:37 AM|ICON|undef|INFO|undef|OBJN|2307|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
 		 -typ "mayaBinary" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Carrot/Carrot.mb";
-file -rdi 1 -ns "Onion" -rfn "OnionRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Thu, Dec 16, 2021 02:50:48 AM|ICON|undef|INFO|undef|OBJN|932|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
+file -rdi 1 -ns "Onion" -rfn "OnionRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Fri, Dec 17, 2021 03:05:27 AM|ICON|undef|INFO|undef|OBJN|1268|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
 		 -typ "mayaBinary" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Onion/Onion.mb";
-file -r -ns "tp_env" -dr 1 -rfn "tp_envRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Thu, Dec 16, 2021 12:02:29 AM|ICON|undef|INFO|undef|OBJN|338|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
+file -rdi 1 -ns "Trash" -rfn "TrashRN" -op "v=0;" -typ "mayaAscii" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Trash/Trash.ma";
+file -r -ns "tp_env" -dr 1 -rfn "tp_envRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Fri, Dec 17, 2021 12:51:57 AM|ICON|undef|INFO|undef|OBJN|108|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
 		 -typ "mayaBinary" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Environment/tp_env.mb";
-file -r -ns "Carrot" -dr 1 -rfn "CarrotRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Tue, Dec 14, 2021 10:10:19 PM|ICON|undef|INFO|undef|OBJN|194|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
+file -r -ns "Carrot" -dr 1 -rfn "CarrotRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Fri, Dec 17, 2021 02:50:37 AM|ICON|undef|INFO|undef|OBJN|2307|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
 		 -typ "mayaBinary" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Carrot/Carrot.mb";
-file -r -ns "Onion" -dr 1 -rfn "OnionRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Thu, Dec 16, 2021 02:50:48 AM|ICON|undef|INFO|undef|OBJN|932|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
+file -r -ns "Onion" -dr 1 -rfn "OnionRN" -op "VERS|2022|UVER|undef|MADE|undef|CHNG|Fri, Dec 17, 2021 03:05:27 AM|ICON|undef|INFO|undef|OBJN|1268|INCL|undef(|LUNI|m|TUNI|film|AUNI|deg|TDUR|141120000|"
 		 -typ "mayaBinary" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Onion/Onion.mb";
+file -r -ns "Trash" -dr 1 -rfn "TrashRN" -op "v=0;" -typ "mayaAscii" "D:/University/4th-year/1st Semester/Animation/Final/Soupershowdown_AnimatedTrailer//Assets/Trash/Trash.ma";
 requires maya "2022";
 requires "stereoCamera" "10.0";
 requires -nodeType "aiOptions" -nodeType "aiAOVDriver" -nodeType "aiAOVFilter" "mtoa" "4.2.3";
@@ -23,24 +25,24 @@ fileInfo "product" "Maya 2022";
 fileInfo "version" "2022";
 fileInfo "cutIdentifier" "202106180615-26a94e7f8c";
 fileInfo "osv" "Windows 10 Home v2009 (Build: 19043)";
-fileInfo "UUID" "74979316-4A7E-0A4C-F900-4485407EA24E";
+fileInfo "UUID" "338CE6F5-43A4-A1F4-8B59-60B7C15F9A34";
 createNode transform -s -n "persp";
 	rename -uid "B8C35C2B-4CC5-1922-44F5-7DB77DAF2075";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 1.2092760026158305 12.415049039657692 22.396928220107384 ;
-	setAttr ".r" -type "double3" -51.938352729671394 29.399999999999896 0 ;
+	setAttr ".t" -type "double3" 0.68468782738231271 3.043645224150223 16.95939012329077 ;
+	setAttr ".r" -type "double3" -17.138352729875866 802.59999999979868 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "8149E35A-4D27-101C-EC11-A08255E9FF2A";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
 	setAttr ".fcp" 1000;
 	setAttr ".fd" 0.05;
-	setAttr ".coi" 14.405485953717594;
+	setAttr ".coi" 2.9435747950712043;
 	setAttr ".ow" 0.1;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
-	setAttr ".tp" -type "double3" -620.89994201541208 6.8112726550390503 1674.8943992825684 ;
+	setAttr ".tp" -type "double3" -163.37593105338485 110.39562909940229 1117.1748725059692 ;
 	setAttr ".hc" -type "string" "viewSet -p %camera";
 	setAttr ".ai_translator" -type "string" "perspective";
 createNode transform -s -n "top";
@@ -130,20 +132,43 @@ createNode camera -n "camera_renderShape" -p "camera_render";
 	setAttr ".tp" -type "double3" -571.4895289103315 6.8112726550390503 1674.8943992825684 ;
 	setAttr ".dr" yes;
 	setAttr ".ai_translator" -type "string" "perspective";
+createNode transform -n "grp_trash";
+	rename -uid "D4B775C2-4027-37F0-2E27-089BF13E454E";
+createNode parentConstraint -n "grp_trash_parentConstraint1" -p "grp_trash";
+	rename -uid "4423CD2B-4FE9-DD7F-E695-4A964D6CBAA6";
+	addAttr -dcb 0 -ci true -k true -sn "w0" -ln "control_L_armW0" -dv 1 -min 0 -at "double";
+	setAttr -k on ".nds";
+	setAttr -k off ".v";
+	setAttr -k off ".tx";
+	setAttr -k off ".ty";
+	setAttr -k off ".tz";
+	setAttr -k off ".rx";
+	setAttr -k off ".ry";
+	setAttr -k off ".rz";
+	setAttr -k off ".sx";
+	setAttr -k off ".sy";
+	setAttr -k off ".sz";
+	setAttr ".erp" yes;
+	setAttr ".tg[0].tot" -type "double3" 0.41542672434150774 -0.73914059136618793 1.1195972225519955 ;
+	setAttr ".tg[0].tor" -type "double3" -163.61715083863012 67.14206514217922 98.411861276161275 ;
+	setAttr ".lr" -type "double3" 15.458195517681856 -183.41690722411488 0.4005402387713628 ;
+	setAttr ".rst" -type "double3" -3.3998752355597834 2.3621613936573418 17.160139020366085 ;
+	setAttr ".rsrr" -type "double3" 15.458195517681856 -183.41690722411488 0.4005402387713628 ;
+	setAttr -k on ".w0";
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "13158241-4467-285D-F545-6CB3A811841A";
-	setAttr -s 21 ".lnk";
-	setAttr -s 21 ".slnk";
+	rename -uid "27222C3E-4D44-DCBA-B532-9A9E2DB5A8E3";
+	setAttr -s 22 ".lnk";
+	setAttr -s 22 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "B249A919-4D3B-51F1-8CAB-FFBD39E13D81";
+	rename -uid "F10F8F45-4999-75F1-637D-8AA87F54FF2B";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "57A56263-4572-0BEA-E1B3-BEA5DBF79800";
+	rename -uid "E281F004-430B-1735-D9B2-6F94426F4A10";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "236F7B1E-4136-BD9E-4377-BF84ED3EBF1A";
+	rename -uid "1C845D0F-4E9F-EE17-285F-9CA98C71EB18";
 createNode displayLayer -n "defaultLayer";
 	rename -uid "5B4FBA4F-4910-34C8-1CE4-76BFD532F2EE";
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "73AD02AF-4147-9996-E36E-A59A6AD95050";
+	rename -uid "5E268AEF-4A8B-9169-B396-3B8727C5D0BD";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "E1A74CDC-43E9-021E-A877-9C96766703DE";
 	setAttr ".g" yes;
@@ -160,24 +185,24 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Front View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Front View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"|camera_render|camera_renderShape\" \n            -useInteractiveMode 0\n            -displayLights \"all\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n"
 		+ "            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 1\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n"
 		+ "            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n"
-		+ "            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1049\n            -height 1784\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Persp View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"|persp|perspShape\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n"
+		+ "            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1479\n            -height 1784\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Persp View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"|persp|perspShape\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n"
 		+ "            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 1\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n"
 		+ "            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n"
-		+ "            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1867\n            -height 1784\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"ToggledOutliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n"
+		+ "            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -greasePencils 1\n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1562\n            -height 1784\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"ToggledOutliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n"
 		+ "\t\toutlinerPanel -edit -l (localizedPanelLabel(\"ToggledOutliner\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -docTag \"isolOutln_fromSeln\" \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 1\n            -showReferenceMembers 1\n            -showAttributes 0\n            -showConnected 0\n            -showAnimCurvesOnly 0\n            -showMuteInfo 0\n            -organizeByLayer 1\n            -organizeByClip 1\n            -showAnimLayerWeight 1\n            -autoExpandLayers 1\n            -autoExpand 0\n            -showDagOnly 1\n            -showAssets 1\n            -showContainedOnly 1\n            -showPublishedAsConnected 0\n            -showParentContainers 0\n            -showContainerContents 1\n            -ignoreDagHierarchy 0\n            -expandConnections 0\n            -showUpstreamCurves 1\n            -showUnitlessCurves 1\n            -showCompounds 1\n            -showLeafs 1\n"
 		+ "            -showNumericAttrsOnly 0\n            -highlightActive 1\n            -autoSelectNewObjects 0\n            -doNotSelectNewObjects 0\n            -dropIsParent 1\n            -transmitFilters 0\n            -setFilter \"defaultSetFilter\" \n            -showSetMembers 1\n            -allowMultiSelection 1\n            -alwaysToggleSelect 0\n            -directSelect 0\n            -isSet 0\n            -isSetMember 0\n            -displayMode \"DAG\" \n            -expandObjects 0\n            -setsIgnoreFilters 1\n            -containersIgnoreFilters 0\n            -editAttrName 0\n            -showAttrValues 0\n            -highlightSecondary 0\n            -showUVAttrsOnly 0\n            -showTextureNodesOnly 0\n            -attrAlphaOrder \"default\" \n            -animLayerFilterOptions \"allAffecting\" \n            -sortOrder \"none\" \n            -longNames 0\n            -niceNames 1\n            -selectCommand \"print(\\\"\\\")\" \n            -showNamespace 1\n            -showPinIcons 0\n            -mapMotionTrails 0\n            -ignoreHiddenAttribute 0\n"
 		+ "            -ignoreOutlinerColor 0\n            -renderFilterVisible 0\n            -renderFilterIndex 0\n            -selectionOrder \"chronological\" \n            -expandAttribute 0\n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"Outliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"Outliner\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 0\n            -showReferenceMembers 0\n            -showAttributes 0\n            -showConnected 0\n            -showAnimCurvesOnly 0\n            -showMuteInfo 0\n            -organizeByLayer 1\n            -organizeByClip 1\n            -showAnimLayerWeight 1\n            -autoExpandLayers 1\n            -autoExpand 0\n"
 		+ "            -showDagOnly 1\n            -showAssets 1\n            -showContainedOnly 1\n            -showPublishedAsConnected 0\n            -showParentContainers 0\n            -showContainerContents 1\n            -ignoreDagHierarchy 0\n            -expandConnections 0\n            -showUpstreamCurves 1\n            -showUnitlessCurves 1\n            -showCompounds 1\n            -showLeafs 1\n            -showNumericAttrsOnly 0\n            -highlightActive 1\n            -autoSelectNewObjects 0\n            -doNotSelectNewObjects 0\n            -dropIsParent 1\n            -transmitFilters 0\n            -setFilter \"defaultSetFilter\" \n            -showSetMembers 1\n            -allowMultiSelection 1\n            -alwaysToggleSelect 0\n            -directSelect 0\n            -displayMode \"DAG\" \n            -expandObjects 0\n            -setsIgnoreFilters 1\n            -containersIgnoreFilters 0\n            -editAttrName 0\n            -showAttrValues 0\n            -highlightSecondary 0\n            -showUVAttrsOnly 0\n            -showTextureNodesOnly 0\n"
 		+ "            -attrAlphaOrder \"default\" \n            -animLayerFilterOptions \"allAffecting\" \n            -sortOrder \"none\" \n            -longNames 0\n            -niceNames 1\n            -showNamespace 1\n            -showPinIcons 0\n            -mapMotionTrails 0\n            -ignoreHiddenAttribute 0\n            -ignoreOutlinerColor 0\n            -renderFilterVisible 0\n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"graphEditor\" (localizedPanelLabel(\"Graph Editor\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Graph Editor\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = ($panelName+\"OutlineEd\");\n            outlinerEditor -e \n                -showShapes 1\n                -showAssignedMaterials 0\n                -showTimeEditor 1\n                -showReferenceNodes 0\n                -showReferenceMembers 0\n                -showAttributes 1\n"
 		+ "                -showConnected 1\n                -showAnimCurvesOnly 1\n                -showMuteInfo 0\n                -organizeByLayer 1\n                -organizeByClip 1\n                -showAnimLayerWeight 1\n                -autoExpandLayers 1\n                -autoExpand 1\n                -showDagOnly 0\n                -showAssets 1\n                -showContainedOnly 0\n                -showPublishedAsConnected 0\n                -showParentContainers 0\n                -showContainerContents 0\n                -ignoreDagHierarchy 0\n                -expandConnections 1\n                -showUpstreamCurves 1\n                -showUnitlessCurves 1\n                -showCompounds 0\n                -showLeafs 1\n                -showNumericAttrsOnly 1\n                -highlightActive 0\n                -autoSelectNewObjects 1\n                -doNotSelectNewObjects 0\n                -dropIsParent 1\n                -transmitFilters 1\n                -setFilter \"0\" \n                -showSetMembers 0\n                -allowMultiSelection 1\n"
-		+ "                -alwaysToggleSelect 0\n                -directSelect 0\n                -displayMode \"DAG\" \n                -expandObjects 0\n                -setsIgnoreFilters 1\n                -containersIgnoreFilters 0\n                -editAttrName 0\n                -showAttrValues 0\n                -highlightSecondary 0\n                -showUVAttrsOnly 0\n                -showTextureNodesOnly 0\n                -attrAlphaOrder \"default\" \n                -animLayerFilterOptions \"allAffecting\" \n                -sortOrder \"none\" \n                -longNames 0\n                -niceNames 1\n                -showNamespace 1\n                -showPinIcons 1\n                -mapMotionTrails 1\n                -ignoreHiddenAttribute 0\n                -ignoreOutlinerColor 0\n                -renderFilterVisible 0\n                $editorName;\n\n\t\t\t$editorName = ($panelName+\"GraphEd\");\n            animCurveEditor -e \n                -displayValues 0\n                -snapTime \"integer\" \n                -snapValue \"none\" \n                -showPlayRangeShades \"on\" \n"
-		+ "                -lockPlayRangeShades \"off\" \n                -smoothness \"fine\" \n                -resultSamples 1\n                -resultScreenSamples 0\n                -resultUpdate \"delayed\" \n                -showUpstreamCurves 1\n                -keyMinScale 1\n                -stackedCurvesMin -1\n                -stackedCurvesMax 1\n                -stackedCurvesSpace 0.2\n                -preSelectionHighlight 0\n                -constrainDrag 0\n                -valueLinesToggle 0\n                -outliner \"graphEditor1OutlineEd\" \n                -highlightAffectedCurves 0\n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"dopeSheetPanel\" (localizedPanelLabel(\"Dope Sheet\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Dope Sheet\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = ($panelName+\"OutlineEd\");\n            outlinerEditor -e \n"
-		+ "                -showShapes 1\n                -showAssignedMaterials 0\n                -showTimeEditor 1\n                -showReferenceNodes 0\n                -showReferenceMembers 0\n                -showAttributes 1\n                -showConnected 1\n                -showAnimCurvesOnly 1\n                -showMuteInfo 0\n                -organizeByLayer 1\n                -organizeByClip 1\n                -showAnimLayerWeight 1\n                -autoExpandLayers 1\n                -autoExpand 0\n                -showDagOnly 0\n                -showAssets 1\n                -showContainedOnly 0\n                -showPublishedAsConnected 0\n                -showParentContainers 0\n                -showContainerContents 0\n                -ignoreDagHierarchy 0\n                -expandConnections 1\n                -showUpstreamCurves 1\n                -showUnitlessCurves 0\n                -showCompounds 1\n                -showLeafs 1\n                -showNumericAttrsOnly 1\n                -highlightActive 0\n                -autoSelectNewObjects 0\n"
-		+ "                -doNotSelectNewObjects 1\n                -dropIsParent 1\n                -transmitFilters 0\n                -setFilter \"0\" \n                -showSetMembers 0\n                -allowMultiSelection 1\n                -alwaysToggleSelect 0\n                -directSelect 0\n                -displayMode \"DAG\" \n                -expandObjects 0\n                -setsIgnoreFilters 1\n                -containersIgnoreFilters 0\n                -editAttrName 0\n                -showAttrValues 0\n                -highlightSecondary 0\n                -showUVAttrsOnly 0\n                -showTextureNodesOnly 0\n                -attrAlphaOrder \"default\" \n                -animLayerFilterOptions \"allAffecting\" \n                -sortOrder \"none\" \n                -longNames 0\n                -niceNames 1\n                -showNamespace 1\n                -showPinIcons 0\n                -mapMotionTrails 1\n                -ignoreHiddenAttribute 0\n                -ignoreOutlinerColor 0\n                -renderFilterVisible 0\n                $editorName;\n"
-		+ "\n\t\t\t$editorName = ($panelName+\"DopeSheetEd\");\n            dopeSheetEditor -e \n                -displayValues 0\n                -snapTime \"integer\" \n                -snapValue \"none\" \n                -outliner \"dopeSheetPanel1OutlineEd\" \n                -showSummary 1\n                -showScene 0\n                -hierarchyBelow 0\n                -showTicks 1\n                -selectionWindow 0 0 0 0 \n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"timeEditorPanel\" (localizedPanelLabel(\"Time Editor\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Time Editor\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"clipEditorPanel\" (localizedPanelLabel(\"Trax Editor\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n"
-		+ "\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Trax Editor\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = clipEditorNameFromPanel($panelName);\n            clipEditor -e \n                -displayValues 0\n                -snapTime \"none\" \n                -snapValue \"none\" \n                -initialized 0\n                -manageSequencer 0 \n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"sequenceEditorPanel\" (localizedPanelLabel(\"Camera Sequencer\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Camera Sequencer\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = sequenceEditorNameFromPanel($panelName);\n            clipEditor -e \n                -displayValues 0\n                -snapTime \"none\" \n                -snapValue \"none\" \n                -initialized 0\n                -manageSequencer 1 \n                $editorName;\n"
-		+ "\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"hyperGraphPanel\" (localizedPanelLabel(\"Hypergraph Hierarchy\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Hypergraph Hierarchy\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = ($panelName+\"HyperGraphEd\");\n            hyperGraph -e \n                -graphLayoutStyle \"hierarchicalLayout\" \n                -orientation \"horiz\" \n                -mergeConnections 0\n                -zoom 1\n                -animateTransition 0\n                -showRelationships 1\n                -showShapes 0\n                -showDeformers 0\n                -showExpressions 0\n                -showConstraints 0\n                -showConnectionFromSelected 0\n                -showConnectionToSelected 0\n                -showConstraintLabels 0\n                -showUnderworld 0\n                -showInvisible 0\n                -transitionFrames 1\n"
-		+ "                -opaqueContainers 0\n                -freeform 0\n                -imagePosition 0 0 \n                -imageScale 1\n                -imageEnabled 0\n                -graphType \"DAG\" \n                -heatMapDisplay 0\n                -updateSelection 1\n                -updateNodeAdded 1\n                -useDrawOverrideColor 0\n                -limitGraphTraversal -1\n                -range 0 0 \n                -iconSize \"smallIcons\" \n                -showCachedConnections 0\n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"hyperShadePanel\" (localizedPanelLabel(\"Hypershade\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Hypershade\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"visorPanel\" (localizedPanelLabel(\"Visor\")) `;\n"
+		+ "                -alwaysToggleSelect 0\n                -directSelect 0\n                -isSet 0\n                -isSetMember 0\n                -displayMode \"DAG\" \n                -expandObjects 0\n                -setsIgnoreFilters 1\n                -containersIgnoreFilters 0\n                -editAttrName 0\n                -showAttrValues 0\n                -highlightSecondary 0\n                -showUVAttrsOnly 0\n                -showTextureNodesOnly 0\n                -attrAlphaOrder \"default\" \n                -animLayerFilterOptions \"allAffecting\" \n                -sortOrder \"none\" \n                -longNames 0\n                -niceNames 1\n                -showNamespace 1\n                -showPinIcons 1\n                -mapMotionTrails 1\n                -ignoreHiddenAttribute 0\n                -ignoreOutlinerColor 0\n                -renderFilterVisible 0\n                -selectionOrder \"display\" \n                -expandAttribute 1\n                $editorName;\n\n\t\t\t$editorName = ($panelName+\"GraphEd\");\n            animCurveEditor -e \n"
+		+ "                -displayValues 0\n                -snapTime \"integer\" \n                -snapValue \"none\" \n                -showPlayRangeShades \"on\" \n                -lockPlayRangeShades \"off\" \n                -smoothness \"fine\" \n                -resultSamples 1\n                -resultScreenSamples 0\n                -resultUpdate \"delayed\" \n                -showUpstreamCurves 1\n                -keyMinScale 1\n                -stackedCurvesMin -1\n                -stackedCurvesMax 1\n                -stackedCurvesSpace 0.2\n                -preSelectionHighlight 0\n                -constrainDrag 0\n                -valueLinesToggle 0\n                -outliner \"graphEditor1OutlineEd\" \n                -highlightAffectedCurves 0\n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"dopeSheetPanel\" (localizedPanelLabel(\"Dope Sheet\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Dope Sheet\")) -mbv $menusOkayInPanels  $panelName;\n"
+		+ "\n\t\t\t$editorName = ($panelName+\"OutlineEd\");\n            outlinerEditor -e \n                -showShapes 1\n                -showAssignedMaterials 0\n                -showTimeEditor 1\n                -showReferenceNodes 0\n                -showReferenceMembers 0\n                -showAttributes 1\n                -showConnected 1\n                -showAnimCurvesOnly 1\n                -showMuteInfo 0\n                -organizeByLayer 1\n                -organizeByClip 1\n                -showAnimLayerWeight 1\n                -autoExpandLayers 1\n                -autoExpand 0\n                -showDagOnly 0\n                -showAssets 1\n                -showContainedOnly 0\n                -showPublishedAsConnected 0\n                -showParentContainers 0\n                -showContainerContents 0\n                -ignoreDagHierarchy 0\n                -expandConnections 1\n                -showUpstreamCurves 1\n                -showUnitlessCurves 0\n                -showCompounds 1\n                -showLeafs 1\n                -showNumericAttrsOnly 1\n"
+		+ "                -highlightActive 0\n                -autoSelectNewObjects 0\n                -doNotSelectNewObjects 1\n                -dropIsParent 1\n                -transmitFilters 0\n                -setFilter \"0\" \n                -showSetMembers 0\n                -allowMultiSelection 1\n                -alwaysToggleSelect 0\n                -directSelect 0\n                -displayMode \"DAG\" \n                -expandObjects 0\n                -setsIgnoreFilters 1\n                -containersIgnoreFilters 0\n                -editAttrName 0\n                -showAttrValues 0\n                -highlightSecondary 0\n                -showUVAttrsOnly 0\n                -showTextureNodesOnly 0\n                -attrAlphaOrder \"default\" \n                -animLayerFilterOptions \"allAffecting\" \n                -sortOrder \"none\" \n                -longNames 0\n                -niceNames 1\n                -showNamespace 1\n                -showPinIcons 0\n                -mapMotionTrails 1\n                -ignoreHiddenAttribute 0\n                -ignoreOutlinerColor 0\n"
+		+ "                -renderFilterVisible 0\n                $editorName;\n\n\t\t\t$editorName = ($panelName+\"DopeSheetEd\");\n            dopeSheetEditor -e \n                -displayValues 0\n                -snapTime \"integer\" \n                -snapValue \"none\" \n                -outliner \"dopeSheetPanel1OutlineEd\" \n                -showSummary 1\n                -showScene 0\n                -hierarchyBelow 0\n                -showTicks 1\n                -selectionWindow 0 0 0 0 \n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"timeEditorPanel\" (localizedPanelLabel(\"Time Editor\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Time Editor\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"clipEditorPanel\" (localizedPanelLabel(\"Trax Editor\")) `;\n"
+		+ "\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Trax Editor\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = clipEditorNameFromPanel($panelName);\n            clipEditor -e \n                -displayValues 0\n                -snapTime \"none\" \n                -snapValue \"none\" \n                -initialized 0\n                -manageSequencer 0 \n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"sequenceEditorPanel\" (localizedPanelLabel(\"Camera Sequencer\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Camera Sequencer\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = sequenceEditorNameFromPanel($panelName);\n            clipEditor -e \n                -displayValues 0\n                -snapTime \"none\" \n                -snapValue \"none\" \n                -initialized 0\n"
+		+ "                -manageSequencer 1 \n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"hyperGraphPanel\" (localizedPanelLabel(\"Hypergraph Hierarchy\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Hypergraph Hierarchy\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = ($panelName+\"HyperGraphEd\");\n            hyperGraph -e \n                -graphLayoutStyle \"hierarchicalLayout\" \n                -orientation \"horiz\" \n                -mergeConnections 0\n                -zoom 1\n                -animateTransition 0\n                -showRelationships 1\n                -showShapes 0\n                -showDeformers 0\n                -showExpressions 0\n                -showConstraints 0\n                -showConnectionFromSelected 0\n                -showConnectionToSelected 0\n                -showConstraintLabels 0\n                -showUnderworld 0\n"
+		+ "                -showInvisible 0\n                -transitionFrames 1\n                -opaqueContainers 0\n                -freeform 0\n                -imagePosition 0 0 \n                -imageScale 1\n                -imageEnabled 0\n                -graphType \"DAG\" \n                -heatMapDisplay 0\n                -updateSelection 1\n                -updateNodeAdded 1\n                -useDrawOverrideColor 0\n                -limitGraphTraversal -1\n                -range 0 0 \n                -iconSize \"smallIcons\" \n                -showCachedConnections 0\n                $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"hyperShadePanel\" (localizedPanelLabel(\"Hypershade\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Hypershade\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"visorPanel\" (localizedPanelLabel(\"Visor\")) `;\n"
 		+ "\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Visor\")) -mbv $menusOkayInPanels  $panelName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextScriptedPanel \"nodeEditorPanel\" (localizedPanelLabel(\"Node Editor\")) `;\n\tif ($nodeEditorPanelVisible || $nodeEditorWorkspaceControlOpen) {\n\t\tif (\"\" == $panelName) {\n\t\t\tif ($useSceneConfig) {\n\t\t\t\t$panelName = `scriptedPanel -unParent  -type \"nodeEditorPanel\" -l (localizedPanelLabel(\"Node Editor\")) -mbv $menusOkayInPanels `;\n\n\t\t\t$editorName = ($panelName+\"NodeEditorEd\");\n            nodeEditor -e \n                -allAttributes 0\n                -allNodes 0\n                -autoSizeNodes 1\n                -consistentNameSize 1\n                -createNodeCommand \"nodeEdCreateNodeCommand\" \n                -connectNodeOnCreation 0\n                -connectOnDrop 0\n                -copyConnectionsOnPaste 0\n                -connectionStyle \"bezier\" \n                -defaultPinnedState 0\n"
 		+ "                -additiveGraphingMode 0\n                -settingsChangedCallback \"nodeEdSyncControls\" \n                -traversalDepthLimit -1\n                -keyPressCommand \"nodeEdKeyPressCommand\" \n                -nodeTitleMode \"name\" \n                -gridSnap 0\n                -gridVisibility 1\n                -crosshairOnEdgeDragging 0\n                -popupMenuScript \"nodeEdBuildPanelMenus\" \n                -showNamespace 1\n                -showShapes 1\n                -showSGShapes 0\n                -showTransforms 1\n                -useAssets 1\n                -syncedSelection 1\n                -extendToShapes 1\n                -editorMode \"default\" \n                -hasWatchpoint 0\n                $editorName;\n\t\t\t}\n\t\t} else {\n\t\t\t$label = `panel -q -label $panelName`;\n\t\t\tscriptedPanel -edit -l (localizedPanelLabel(\"Node Editor\")) -mbv $menusOkayInPanels  $panelName;\n\n\t\t\t$editorName = ($panelName+\"NodeEditorEd\");\n            nodeEditor -e \n                -allAttributes 0\n                -allNodes 0\n                -autoSizeNodes 1\n"
 		+ "                -consistentNameSize 1\n                -createNodeCommand \"nodeEdCreateNodeCommand\" \n                -connectNodeOnCreation 0\n                -connectOnDrop 0\n                -copyConnectionsOnPaste 0\n                -connectionStyle \"bezier\" \n                -defaultPinnedState 0\n                -additiveGraphingMode 0\n                -settingsChangedCallback \"nodeEdSyncControls\" \n                -traversalDepthLimit -1\n                -keyPressCommand \"nodeEdKeyPressCommand\" \n                -nodeTitleMode \"name\" \n                -gridSnap 0\n                -gridVisibility 1\n                -crosshairOnEdgeDragging 0\n                -popupMenuScript \"nodeEdBuildPanelMenus\" \n                -showNamespace 1\n                -showShapes 1\n                -showSGShapes 0\n                -showTransforms 1\n                -useAssets 1\n                -syncedSelection 1\n                -extendToShapes 1\n                -editorMode \"default\" \n                -hasWatchpoint 0\n                $editorName;\n"
@@ -189,12 +214,12 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "                -headsUpDisplay 1\n                -holdOuts 1\n                -selectionHiliteDisplay 1\n                -useDefaultMaterial 0\n                -bufferMode \"double\" \n                -twoSidedLighting 1\n                -backfaceCulling 0\n                -xray 0\n                -jointXray 0\n                -activeComponentsXray 0\n                -displayTextures 0\n                -smoothWireframe 0\n                -lineWidth 1\n                -textureAnisotropic 0\n                -textureHilight 1\n                -textureSampling 2\n                -textureDisplay \"modulate\" \n                -textureMaxSize 32768\n                -fogging 0\n                -fogSource \"fragment\" \n                -fogMode \"linear\" \n                -fogStart 0\n                -fogEnd 100\n                -fogDensity 0.1\n                -fogColor 0.5 0.5 0.5 1 \n                -depthOfFieldPreview 1\n                -maxConstantTransparency 1\n                -objectFilterShowInHUD 1\n                -isFiltered 0\n                -colorResolution 4 4 \n"
 		+ "                -bumpResolution 4 4 \n                -textureCompression 0\n                -transparencyAlgorithm \"frontAndBackCull\" \n                -transpInShadows 0\n                -cullingOverride \"none\" \n                -lowQualityLighting 0\n                -maximumNumHardwareLights 0\n                -occlusionCulling 0\n                -shadingModel 0\n                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -controllers 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n                -controlVertices 1\n                -hulls 1\n                -grid 1\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n"
 		+ "                -deformers 1\n                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n                -nRigids 1\n                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -greasePencils 1\n                -shadows 0\n                -captureSequenceNumber -1\n                -width 0\n                -height 0\n                -sceneRenderFilter 0\n                -displayMode \"centerEye\" \n                -viewColor 0 0 0 1 \n                -useCustomBackground 1\n                $editorName;\n            stereoCameraView -e -viewSelected 0 $editorName;\n            stereoCameraView -e \n"
-		+ "                -pluginObjects \"gpuCacheDisplayFilter\" 1 \n                $editorName; };\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\tif ($useSceneConfig) {\n        string $configName = `getPanel -cwl (localizedPanelLabel(\"Current Layout\"))`;\n        if (\"\" != $configName) {\n\t\t\tpanelConfiguration -edit -label (localizedPanelLabel(\"Current Layout\")) \n\t\t\t\t-userCreated false\n\t\t\t\t-defaultImage \"vacantCell.xP:/\"\n\t\t\t\t-image \"\"\n\t\t\t\t-sc false\n\t\t\t\t-configString \"global string $gMainPane; paneLayout -e -cn \\\"vertical2\\\" -ps 1 36 100 -ps 2 64 100 $gMainPane;\"\n\t\t\t\t-removeAllPanels\n\t\t\t\t-ap false\n\t\t\t\t\t(localizedPanelLabel(\"Front View\")) \n\t\t\t\t\t\"modelPanel\"\n"
-		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Front View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -camera \\\"|camera_render|camera_renderShape\\\" \\n    -useInteractiveMode 0\\n    -displayLights \\\"all\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1049\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
-		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Front View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -camera \\\"|camera_render|camera_renderShape\\\" \\n    -useInteractiveMode 0\\n    -displayLights \\\"all\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1049\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "                -pluginObjects \"gpuCacheDisplayFilter\" 1 \n                $editorName; };\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\tif ($useSceneConfig) {\n        string $configName = `getPanel -cwl (localizedPanelLabel(\"Current Layout\"))`;\n        if (\"\" != $configName) {\n\t\t\tpanelConfiguration -edit -label (localizedPanelLabel(\"Current Layout\")) \n\t\t\t\t-userCreated false\n\t\t\t\t-defaultImage \"vacantCell.xP:/\"\n\t\t\t\t-image \"\"\n\t\t\t\t-sc false\n\t\t\t\t-configString \"global string $gMainPane; paneLayout -e -cn \\\"vertical2\\\" -ps 1 49 100 -ps 2 51 100 $gMainPane;\"\n\t\t\t\t-removeAllPanels\n\t\t\t\t-ap false\n\t\t\t\t\t(localizedPanelLabel(\"Front View\")) \n\t\t\t\t\t\"modelPanel\"\n"
+		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Front View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -camera \\\"|camera_render|camera_renderShape\\\" \\n    -useInteractiveMode 0\\n    -displayLights \\\"all\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1479\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Front View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -camera \\\"|camera_render|camera_renderShape\\\" \\n    -useInteractiveMode 0\\n    -displayLights \\\"all\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1479\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
 		+ "\t\t\t\t-ap false\n\t\t\t\t\t(localizedPanelLabel(\"Persp View\")) \n\t\t\t\t\t\"modelPanel\"\n"
-		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1867\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
-		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1867\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1562\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -greasePencils 1\\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1562\\n    -height 1784\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
 		+ "\t\t\t\t$configName;\n\n            setNamedPanelLayout (localizedPanelLabel(\"Current Layout\"));\n        }\n\n        panelHistory -e -clear mainPanelHistory;\n        sceneUIReplacement -clear;\n\t}\n\n\ngrid -spacing 5 -size 12 -divisions 5 -displayAxes yes -displayGridLines yes -displayDivisionLines yes -displayPerspectiveLabels no -displayOrthographicLabels no -displayAxesBold yes -perspectiveLabelPosition axis -orthographicLabelPosition edge;\nviewManip -drawCompass 0 -compassAngle 0 -frontParameters \"\" -homeParameters \"\" -selectionLockParameters \"\";\n}\n");
 	setAttr ".st" 3;
 createNode script -n "sceneConfigurationScriptNode";
@@ -218,12 +243,17 @@ createNode reference -n "tp_envRN";
 	rename -uid "834DB50D-40C1-DBB8-F777-72A1CAE0727A";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"tp_envRN"
-		"tp_envRN" 0;
+		"tp_envRN" 0
+		"tp_envRN" 3
+		2 "|tp_env:grp_environment" "visibility" " 1"
+		2 "|tp_env:grp_environment|tp_env:grp_setDressing|tp_env:pCube1" "visibility" 
+		" 1"
+		2 "|tp_env:grp_environment|tp_env:grp_underground" "visibility" " 0";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "CarrotRN";
 	rename -uid "B14B0283-4A66-602B-4FC9-D5ADC3D84BC4";
-	setAttr -s 235 ".phl";
+	setAttr -s 242 ".phl";
 	setAttr ".phl[1]" 0;
 	setAttr ".phl[2]" 0;
 	setAttr ".phl[3]" 0;
@@ -459,6 +489,13 @@ createNode reference -n "CarrotRN";
 	setAttr ".phl[233]" 0;
 	setAttr ".phl[234]" 0;
 	setAttr ".phl[235]" 0;
+	setAttr ".phl[236]" 0;
+	setAttr ".phl[237]" 0;
+	setAttr ".phl[238]" 0;
+	setAttr ".phl[239]" 0;
+	setAttr ".phl[240]" 0;
+	setAttr ".phl[241]" 0;
+	setAttr ".phl[242]" 0;
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"CarrotRN"
 		"CarrotRN" 3
@@ -468,7 +505,7 @@ createNode reference -n "CarrotRN";
 		"rotateX" " 90.00000000000002842"
 		2 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1|Carrot:control_stem" 
 		"translateY" " 0.12736718784067136"
-		"CarrotRN" 304
+		"CarrotRN" 314
 		1 |Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves "blendGrplocatorsparent1" 
 		"blendGrplocatorsparent1" " -ci 1 -k 1 -dv 1 -smn 0 -smx 1 -at \"double\""
 		1 |Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl 
@@ -483,6 +520,7 @@ createNode reference -n "CarrotRN";
 		"blendPoint1" "blendPoint1" " -ci 1 -k 1 -dv 1 -smn 0 -smx 1 -at \"double\""
 		1 |Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl 
 		"blendOrient1" "blendOrient1" " -ci 1 -k 1 -dv 1 -smn 0 -smx 1 -at \"double\""
+		2 "|Carrot:grp_carrot" "visibility" " 1"
 		2 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves" 
 		"blendGrplocatorsparent1" " -k 1 0"
 		2 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm" 
@@ -579,6 +617,17 @@ createNode reference -n "CarrotRN";
 		2 "|Carrot:grp_carrot|Carrot:grp_carrot_skeleton|Carrot:jnt_root|Carrot:jnt_spine1|Carrot:jnt_R_shoulder|Carrot:jnt_R_elbow|Carrot:jnt_R_wrist|Carrot:jnt_R_hand" 
 		"rotate" " -type \"double3\" 28.05441770691608383 -25.66012212919062208 -14.74557207481374732"
 		
+		2 "|Carrot:imagePlane1" "visibility" " 1"
+		2 "Carrot:Controls" "visibility" " 1"
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateX" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateX" 
+		""
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateY" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateY" 
+		""
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateZ" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateZ" 
+		""
 		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.constraintTranslateX" 
 		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.translateX" 
 		""
@@ -596,33 +645,6 @@ createNode reference -n "CarrotRN";
 		""
 		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.constraintRotateZ" 
 		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.rotateZ" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateX" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateX" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateY" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateY" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateZ" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateZ" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateX" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateX" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateY" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateY" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateZ" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateZ" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateX" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateX" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateY" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateY" 
-		""
-		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateZ" 
-		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateZ" 
 		""
 		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintTranslateX" 
 		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.translateX" 
@@ -642,6 +664,24 @@ createNode reference -n "CarrotRN";
 		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintRotateZ" 
 		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.rotateZ" ""
 		
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateX" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateX" 
+		""
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateY" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateY" 
+		""
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateZ" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateZ" 
+		""
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateX" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateX" 
+		""
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateY" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateY" 
+		""
+		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateZ" 
+		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateZ" 
+		""
 		3 "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.constraintTranslateX" 
 		"|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.translateX" 
 		""
@@ -663,464 +703,478 @@ createNode reference -n "CarrotRN";
 		"CarrotRN.placeHolderList[5]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global.rotateZ" 
 		"CarrotRN.placeHolderList[6]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.translateX" 
-		"CarrotRN.placeHolderList[7]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.translateY" 
-		"CarrotRN.placeHolderList[8]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.translateZ" 
-		"CarrotRN.placeHolderList[9]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.rotateX" 
-		"CarrotRN.placeHolderList[10]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.rotateY" 
-		"CarrotRN.placeHolderList[11]" ""
+		"CarrotRN.placeHolderList[7]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.rotateX" 
+		"CarrotRN.placeHolderList[8]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.rotateZ" 
+		"CarrotRN.placeHolderList[9]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.translateX" 
+		"CarrotRN.placeHolderList[10]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.translateY" 
+		"CarrotRN.placeHolderList[11]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.translateZ" 
 		"CarrotRN.placeHolderList[12]" ""
 		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves.blendGrplocatorsparent1" 
 		"CarrotRN.placeHolderList[13]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.translateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.scale" 
 		"CarrotRN.placeHolderList[14]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.translateY" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.translate" 
 		"CarrotRN.placeHolderList[15]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.translateX" 
 		"CarrotRN.placeHolderList[16]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.translateY" 
 		"CarrotRN.placeHolderList[17]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.translateZ" 
 		"CarrotRN.placeHolderList[18]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotateY" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotate" 
 		"CarrotRN.placeHolderList[19]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotateX" 
 		"CarrotRN.placeHolderList[20]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotateY" 
 		"CarrotRN.placeHolderList[21]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotateZ" 
 		"CarrotRN.placeHolderList[22]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.rotateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotatePivot" 
 		"CarrotRN.placeHolderList[23]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.rotateY" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotatePivotTranslate" 
 		"CarrotRN.placeHolderList[24]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.rotateZ" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.parentMatrix" 
 		"CarrotRN.placeHolderList[25]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.translateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm.rotateOrder" 
 		"CarrotRN.placeHolderList[26]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.translateX" 
 		"CarrotRN.placeHolderList[27]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.translateY" 
 		"CarrotRN.placeHolderList[28]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.translateZ" 
 		"CarrotRN.placeHolderList[29]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.rotateX" 
 		"CarrotRN.placeHolderList[30]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.rotateY" 
 		"CarrotRN.placeHolderList[31]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm.rotateZ" 
 		"CarrotRN.placeHolderList[32]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.translateX" 
 		"CarrotRN.placeHolderList[33]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.translateY" 
 		"CarrotRN.placeHolderList[34]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[35]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[36]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[37]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_arm|Carrot:ikHandle_L_arm|Carrot:ikHandle_L_arm_poleVectorConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[38]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.translateX" 
 		"CarrotRN.placeHolderList[39]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.translateY" 
 		"CarrotRN.placeHolderList[40]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.translateZ" 
 		"CarrotRN.placeHolderList[41]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.rotateZ" 
 		"CarrotRN.placeHolderList[42]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.rotateX" 
 		"CarrotRN.placeHolderList[43]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm.rotateY" 
 		"CarrotRN.placeHolderList[44]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.translateX" 
 		"CarrotRN.placeHolderList[45]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.translateY" 
 		"CarrotRN.placeHolderList[46]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.translateZ" 
 		"CarrotRN.placeHolderList[47]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.rotateX" 
 		"CarrotRN.placeHolderList[48]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.rotateY" 
 		"CarrotRN.placeHolderList[49]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm.rotateZ" 
 		"CarrotRN.placeHolderList[50]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.translateX" 
 		"CarrotRN.placeHolderList[51]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.translateY" 
 		"CarrotRN.placeHolderList[52]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[53]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[54]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[55]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_R_arm|Carrot:ikHandle_R_arm|Carrot:ikHandle_R_arm_poleVectorConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[56]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.translateX" 
 		"CarrotRN.placeHolderList[57]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.translateZ" 
 		"CarrotRN.placeHolderList[58]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.translateY" 
 		"CarrotRN.placeHolderList[59]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.rotateX" 
 		"CarrotRN.placeHolderList[60]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.rotateY" 
 		"CarrotRN.placeHolderList[61]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg.rotateZ" 
 		"CarrotRN.placeHolderList[62]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.translateX" 
 		"CarrotRN.placeHolderList[63]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.translateY" 
 		"CarrotRN.placeHolderList[64]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.translateZ" 
 		"CarrotRN.placeHolderList[65]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.rotateX" 
 		"CarrotRN.placeHolderList[66]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.rotateY" 
 		"CarrotRN.placeHolderList[67]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle.rotateZ" 
 		"CarrotRN.placeHolderList[68]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.translateX" 
 		"CarrotRN.placeHolderList[69]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.translateZ" 
 		"CarrotRN.placeHolderList[70]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.translateY" 
 		"CarrotRN.placeHolderList[71]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.rotateX" 
 		"CarrotRN.placeHolderList[72]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.rotateY" 
 		"CarrotRN.placeHolderList[73]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe.rotateZ" 
 		"CarrotRN.placeHolderList[74]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.translateX" 
 		"CarrotRN.placeHolderList[75]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.translateY" 
 		"CarrotRN.placeHolderList[76]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.translateZ" 
 		"CarrotRN.placeHolderList[77]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.rotateX" 
 		"CarrotRN.placeHolderList[78]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.rotateY" 
 		"CarrotRN.placeHolderList[79]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg.rotateZ" 
 		"CarrotRN.placeHolderList[80]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.translateX" 
 		"CarrotRN.placeHolderList[81]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.translateY" 
 		"CarrotRN.placeHolderList[82]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[83]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[84]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[85]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg|Carrot:foot_L_ankle|Carrot:foot_L_toe|Carrot:ikHandle_L_leg|Carrot:ikHandle_L_leg_poleVectorConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[86]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.translateX" 
 		"CarrotRN.placeHolderList[87]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.translateY" 
 		"CarrotRN.placeHolderList[88]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1|Carrot:control_stem.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.translateZ" 
 		"CarrotRN.placeHolderList[89]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1|Carrot:control_stem.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.rotateX" 
 		"CarrotRN.placeHolderList[90]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1|Carrot:control_stem.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.rotateY" 
 		"CarrotRN.placeHolderList[91]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips.rotateZ" 
 		"CarrotRN.placeHolderList[92]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1.rotateX" 
 		"CarrotRN.placeHolderList[93]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1.rotateY" 
 		"CarrotRN.placeHolderList[94]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1.rotateZ" 
 		"CarrotRN.placeHolderList[95]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1|Carrot:control_stem.rotateX" 
 		"CarrotRN.placeHolderList[96]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1|Carrot:control_stem.rotateY" 
 		"CarrotRN.placeHolderList[97]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_hips|Carrot:control_stem1|Carrot:control_stem.rotateZ" 
 		"CarrotRN.placeHolderList[98]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.translateX" 
 		"CarrotRN.placeHolderList[99]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.translateZ" 
 		"CarrotRN.placeHolderList[100]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.translateY" 
 		"CarrotRN.placeHolderList[101]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.rotateX" 
 		"CarrotRN.placeHolderList[102]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.rotateY" 
 		"CarrotRN.placeHolderList[103]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1.rotateZ" 
 		"CarrotRN.placeHolderList[104]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.translateX" 
 		"CarrotRN.placeHolderList[105]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.translateY" 
 		"CarrotRN.placeHolderList[106]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.translateZ" 
 		"CarrotRN.placeHolderList[107]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.rotateX" 
 		"CarrotRN.placeHolderList[108]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.rotateY" 
 		"CarrotRN.placeHolderList[109]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle.rotateZ" 
 		"CarrotRN.placeHolderList[110]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.translateX" 
 		"CarrotRN.placeHolderList[111]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.translateY" 
 		"CarrotRN.placeHolderList[112]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.translateZ" 
 		"CarrotRN.placeHolderList[113]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.rotateX" 
 		"CarrotRN.placeHolderList[114]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.rotateY" 
 		"CarrotRN.placeHolderList[115]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe.rotateZ" 
 		"CarrotRN.placeHolderList[116]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.translateX" 
 		"CarrotRN.placeHolderList[117]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.translateY" 
 		"CarrotRN.placeHolderList[118]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.translateZ" 
 		"CarrotRN.placeHolderList[119]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.rotateX" 
 		"CarrotRN.placeHolderList[120]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.rotateY" 
 		"CarrotRN.placeHolderList[121]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg.rotateZ" 
 		"CarrotRN.placeHolderList[122]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.translateX" 
 		"CarrotRN.placeHolderList[123]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.translateY" 
 		"CarrotRN.placeHolderList[124]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.blendPoint1" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[125]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[126]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[127]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:control_L_leg1|Carrot:foot_R_ankle|Carrot:foot_R_toe|Carrot:ikHandle_R_leg|Carrot:ikHandle_R_leg_poleVectorConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[128]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:control_L_knee.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateX" 
 		"CarrotRN.placeHolderList[129]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:control_L_knee.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateY" 
 		"CarrotRN.placeHolderList[130]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:control_L_knee.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.translateZ" 
 		"CarrotRN.placeHolderList[131]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.translateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.blendPoint1" 
 		"CarrotRN.placeHolderList[132]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.rotateX" 
 		"CarrotRN.placeHolderList[133]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.rotateY" 
 		"CarrotRN.placeHolderList[134]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl.rotateZ" 
 		"CarrotRN.placeHolderList[135]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:control_L_knee.translateX" 
 		"CarrotRN.placeHolderList[136]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:control_L_knee.translateZ" 
 		"CarrotRN.placeHolderList[137]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateX" 
-		"CarrotRN.placeHolderList[138]" "Carrot:grp_L_kneeCtrl.tx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateY" 
-		"CarrotRN.placeHolderList[139]" "Carrot:grp_L_kneeCtrl.ty"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateZ" 
-		"CarrotRN.placeHolderList[140]" "Carrot:grp_L_kneeCtrl.tz"
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:control_L_knee.translateY" 
+		"CarrotRN.placeHolderList[138]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.translateX" 
+		"CarrotRN.placeHolderList[139]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.translateY" 
+		"CarrotRN.placeHolderList[140]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[141]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[142]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[143]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.blendPoint1" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[144]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.rotateX" 
-		"CarrotRN.placeHolderList[145]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.rotateY" 
-		"CarrotRN.placeHolderList[146]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.rotateZ" 
-		"CarrotRN.placeHolderList[147]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:control_L_knee1.translateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateX" 
+		"CarrotRN.placeHolderList[145]" "Carrot:grp_L_kneeCtrl.tx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateY" 
+		"CarrotRN.placeHolderList[146]" "Carrot:grp_L_kneeCtrl.ty"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_kneeCtrl|Carrot:grp_L_kneeCtrl_pointConstraint1.constraintTranslateZ" 
+		"CarrotRN.placeHolderList[147]" "Carrot:grp_L_kneeCtrl.tz"
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.translateX" 
 		"CarrotRN.placeHolderList[148]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:control_L_knee1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.translateY" 
 		"CarrotRN.placeHolderList[149]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:control_L_knee1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.translateZ" 
 		"CarrotRN.placeHolderList[150]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.translateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.blendPoint1" 
 		"CarrotRN.placeHolderList[151]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.rotateX" 
 		"CarrotRN.placeHolderList[152]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.rotateY" 
 		"CarrotRN.placeHolderList[153]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl.rotateZ" 
 		"CarrotRN.placeHolderList[154]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:control_L_knee1.translateX" 
 		"CarrotRN.placeHolderList[155]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:control_L_knee1.translateY" 
 		"CarrotRN.placeHolderList[156]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.constraintTranslateX" 
-		"CarrotRN.placeHolderList[157]" "Carrot:grp_R_kneeCtrl.tx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.constraintTranslateY" 
-		"CarrotRN.placeHolderList[158]" "Carrot:grp_R_kneeCtrl.ty"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.constraintTranslateZ" 
-		"CarrotRN.placeHolderList[159]" "Carrot:grp_R_kneeCtrl.tz"
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:control_L_knee1.translateZ" 
+		"CarrotRN.placeHolderList[157]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.translateX" 
+		"CarrotRN.placeHolderList[158]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.translateY" 
+		"CarrotRN.placeHolderList[159]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[160]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[161]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[162]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[163]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateY" 
-		"CarrotRN.placeHolderList[164]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateZ" 
-		"CarrotRN.placeHolderList[165]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.blendPoint1" 
-		"CarrotRN.placeHolderList[166]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.blendOrient1" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.constraintTranslateX" 
+		"CarrotRN.placeHolderList[164]" "Carrot:grp_R_kneeCtrl.tx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.constraintTranslateY" 
+		"CarrotRN.placeHolderList[165]" "Carrot:grp_R_kneeCtrl.ty"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_kneeCtrl|Carrot:grp_R_kneeCtrl_pointConstraint1.constraintTranslateZ" 
+		"CarrotRN.placeHolderList[166]" "Carrot:grp_R_kneeCtrl.tz"
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateX" 
 		"CarrotRN.placeHolderList[167]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:control_L_elbow.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateY" 
 		"CarrotRN.placeHolderList[168]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:control_L_elbow.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.translateZ" 
 		"CarrotRN.placeHolderList[169]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:control_L_elbow.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateX" 
 		"CarrotRN.placeHolderList[170]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateY" 
 		"CarrotRN.placeHolderList[171]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.rotateZ" 
 		"CarrotRN.placeHolderList[172]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.translateZ" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.blendPoint1" 
 		"CarrotRN.placeHolderList[173]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.rotateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl.blendOrient1" 
 		"CarrotRN.placeHolderList[174]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:control_L_elbow.translateX" 
 		"CarrotRN.placeHolderList[175]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:control_L_elbow.translateY" 
 		"CarrotRN.placeHolderList[176]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateX" 
-		"CarrotRN.placeHolderList[177]" "Carrot:grp_L_elbowCtrl.tx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateY" 
-		"CarrotRN.placeHolderList[178]" "Carrot:grp_L_elbowCtrl.ty"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateZ" 
-		"CarrotRN.placeHolderList[179]" "Carrot:grp_L_elbowCtrl.tz"
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:control_L_elbow.translateZ" 
+		"CarrotRN.placeHolderList[177]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.translateX" 
+		"CarrotRN.placeHolderList[178]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.translateY" 
+		"CarrotRN.placeHolderList[179]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[180]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[181]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[182]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[183]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.rotateY" 
-		"CarrotRN.placeHolderList[184]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.rotateZ" 
-		"CarrotRN.placeHolderList[185]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateX" 
-		"CarrotRN.placeHolderList[186]" "Carrot:grp_L_elbowCtrl.rx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateY" 
-		"CarrotRN.placeHolderList[187]" "Carrot:grp_L_elbowCtrl.ry"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateZ" 
-		"CarrotRN.placeHolderList[188]" "Carrot:grp_L_elbowCtrl.rz"
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.translateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateX" 
+		"CarrotRN.placeHolderList[184]" "Carrot:grp_L_elbowCtrl.tx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateY" 
+		"CarrotRN.placeHolderList[185]" "Carrot:grp_L_elbowCtrl.ty"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_pointConstraint1.constraintTranslateZ" 
+		"CarrotRN.placeHolderList[186]" "Carrot:grp_L_elbowCtrl.tz"
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.translateX" 
+		"CarrotRN.placeHolderList[187]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.translateY" 
+		"CarrotRN.placeHolderList[188]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[189]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[190]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[191]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[192]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.rotateY" 
-		"CarrotRN.placeHolderList[193]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.rotateZ" 
-		"CarrotRN.placeHolderList[194]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.blendPoint1" 
-		"CarrotRN.placeHolderList[195]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.blendOrient1" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateX" 
+		"CarrotRN.placeHolderList[193]" "Carrot:grp_L_elbowCtrl.rx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateY" 
+		"CarrotRN.placeHolderList[194]" "Carrot:grp_L_elbowCtrl.ry"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_L_elbowCtrl|Carrot:grp_L_elbowCtrl_orientConstraint1.constraintRotateZ" 
+		"CarrotRN.placeHolderList[195]" "Carrot:grp_L_elbowCtrl.rz"
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.translateX" 
 		"CarrotRN.placeHolderList[196]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:control_R_elbow.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.translateY" 
 		"CarrotRN.placeHolderList[197]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:control_R_elbow.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.translateZ" 
 		"CarrotRN.placeHolderList[198]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:control_R_elbow.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.rotateX" 
 		"CarrotRN.placeHolderList[199]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.rotateY" 
 		"CarrotRN.placeHolderList[200]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.rotateZ" 
 		"CarrotRN.placeHolderList[201]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.translateZ" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.blendPoint1" 
 		"CarrotRN.placeHolderList[202]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.rotateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl.blendOrient1" 
 		"CarrotRN.placeHolderList[203]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.rotateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:control_R_elbow.translateX" 
 		"CarrotRN.placeHolderList[204]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.rotateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:control_R_elbow.translateY" 
 		"CarrotRN.placeHolderList[205]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.constraintTranslateX" 
-		"CarrotRN.placeHolderList[206]" "Carrot:grp_R_elbowCtrl.tx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.constraintTranslateY" 
-		"CarrotRN.placeHolderList[207]" "Carrot:grp_R_elbowCtrl.ty"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.constraintTranslateZ" 
-		"CarrotRN.placeHolderList[208]" "Carrot:grp_R_elbowCtrl.tz"
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.translateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:control_R_elbow.translateZ" 
+		"CarrotRN.placeHolderList[206]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.translateX" 
+		"CarrotRN.placeHolderList[207]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.translateY" 
+		"CarrotRN.placeHolderList[208]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[209]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[210]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[211]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[212]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.rotateY" 
-		"CarrotRN.placeHolderList[213]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.rotateZ" 
-		"CarrotRN.placeHolderList[214]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.constraintRotateX" 
-		"CarrotRN.placeHolderList[215]" "Carrot:grp_R_elbowCtrl.rx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.constraintRotateY" 
-		"CarrotRN.placeHolderList[216]" "Carrot:grp_R_elbowCtrl.ry"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.constraintRotateZ" 
-		"CarrotRN.placeHolderList[217]" "Carrot:grp_R_elbowCtrl.rz"
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.translateX" 
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.constraintTranslateX" 
+		"CarrotRN.placeHolderList[213]" "Carrot:grp_R_elbowCtrl.tx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.constraintTranslateY" 
+		"CarrotRN.placeHolderList[214]" "Carrot:grp_R_elbowCtrl.ty"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_pointConstraint1.constraintTranslateZ" 
+		"CarrotRN.placeHolderList[215]" "Carrot:grp_R_elbowCtrl.tz"
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.translateX" 
+		"CarrotRN.placeHolderList[216]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.translateY" 
+		"CarrotRN.placeHolderList[217]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.translateZ" 
 		"CarrotRN.placeHolderList[218]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.translateY" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.rotateX" 
 		"CarrotRN.placeHolderList[219]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.translateZ" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.rotateY" 
 		"CarrotRN.placeHolderList[220]" ""
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.rotateX" 
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.rotateZ" 
 		"CarrotRN.placeHolderList[221]" ""
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.constraintRotateX" 
+		"CarrotRN.placeHolderList[222]" "Carrot:grp_R_elbowCtrl.rx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.constraintRotateY" 
+		"CarrotRN.placeHolderList[223]" "Carrot:grp_R_elbowCtrl.ry"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_R_elbowCtrl|Carrot:grp_R_elbowCtrl_orientConstraint1.constraintRotateZ" 
+		"CarrotRN.placeHolderList[224]" "Carrot:grp_R_elbowCtrl.rz"
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.translateX" 
+		"CarrotRN.placeHolderList[225]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.translateY" 
+		"CarrotRN.placeHolderList[226]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.translateZ" 
+		"CarrotRN.placeHolderList[227]" ""
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.rotateX" 
+		"CarrotRN.placeHolderList[228]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.rotateY" 
-		"CarrotRN.placeHolderList[222]" ""
+		"CarrotRN.placeHolderList[229]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.rotateZ" 
-		"CarrotRN.placeHolderList[223]" ""
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintTranslateX" 
-		"CarrotRN.placeHolderList[224]" "Carrot:grp_ctrlCurves.tx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintTranslateY" 
-		"CarrotRN.placeHolderList[225]" "Carrot:grp_ctrlCurves.ty"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintTranslateZ" 
-		"CarrotRN.placeHolderList[226]" "Carrot:grp_ctrlCurves.tz"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintRotateX" 
-		"CarrotRN.placeHolderList[227]" "Carrot:grp_ctrlCurves.rx"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintRotateY" 
-		"CarrotRN.placeHolderList[228]" "Carrot:grp_ctrlCurves.ry"
-		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintRotateZ" 
-		"CarrotRN.placeHolderList[229]" "Carrot:grp_ctrlCurves.rz"
-		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_scaleConstraint1.translateX" 
 		"CarrotRN.placeHolderList[230]" ""
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintRotateY" 
+		"CarrotRN.placeHolderList[231]" "Carrot:grp_ctrlCurves.ry"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintRotateX" 
+		"CarrotRN.placeHolderList[232]" "Carrot:grp_ctrlCurves.rx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintRotateZ" 
+		"CarrotRN.placeHolderList[233]" "Carrot:grp_ctrlCurves.rz"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintTranslateX" 
+		"CarrotRN.placeHolderList[234]" "Carrot:grp_ctrlCurves.tx"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintTranslateY" 
+		"CarrotRN.placeHolderList[235]" "Carrot:grp_ctrlCurves.ty"
+		5 3 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_parentConstraint1.constraintTranslateZ" 
+		"CarrotRN.placeHolderList[236]" "Carrot:grp_ctrlCurves.tz"
+		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_scaleConstraint1.translateX" 
+		"CarrotRN.placeHolderList[237]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_scaleConstraint1.translateY" 
-		"CarrotRN.placeHolderList[231]" ""
+		"CarrotRN.placeHolderList[238]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_scaleConstraint1.translateZ" 
-		"CarrotRN.placeHolderList[232]" ""
+		"CarrotRN.placeHolderList[239]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_scaleConstraint1.rotateX" 
-		"CarrotRN.placeHolderList[233]" ""
+		"CarrotRN.placeHolderList[240]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_scaleConstraint1.rotateY" 
-		"CarrotRN.placeHolderList[234]" ""
+		"CarrotRN.placeHolderList[241]" ""
 		5 4 "CarrotRN" "|Carrot:grp_carrot|Carrot:carrot_control_global|Carrot:grp_ctrlCurves|Carrot:grp_locators_scaleConstraint1.rotateZ" 
-		"CarrotRN.placeHolderList[235]" "";
+		"CarrotRN.placeHolderList[242]" "";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "OnionRN";
@@ -1128,52 +1182,41 @@ createNode reference -n "OnionRN";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"OnionRN"
 		"OnionRN" 0
-		"OnionRN" 1
+		"OnionRN" 2
+		2 "|Onion:grp_onion" "visibility" " 1"
 		2 "|Onion:grp_onion|Onion:onion_control_global" "translate" " -type \"double3\" -6.17180909766884245 0 -21.1400300290622063";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode animCurveTL -n "carrot_control_global_translateX";
 	rename -uid "5F48626F-4804-FB4A-D5DC-68AF99A82039";
-	setAttr ".tan" 18;
+	setAttr ".tan" 2;
 	setAttr ".wgt" no;
 	setAttr -s 2 ".ktv[0:1]"  1 -3.9720492662053397 75 -1.6365393064983302;
-	setAttr -s 2 ".kit[1]"  2;
-	setAttr -s 2 ".kot[1]"  2;
 createNode animCurveTL -n "carrot_control_global_translateY";
 	rename -uid "CE3AD35C-433A-65DD-4738-13A7CD941EC3";
-	setAttr ".tan" 18;
+	setAttr ".tan" 2;
 	setAttr ".wgt" no;
 	setAttr -s 2 ".ktv[0:1]"  1 0 75 0;
-	setAttr -s 2 ".kit[1]"  2;
-	setAttr -s 2 ".kot[1]"  2;
 createNode animCurveTL -n "carrot_control_global_translateZ";
 	rename -uid "57AC77E6-40CF-0208-8A66-84A6D3DE303A";
-	setAttr ".tan" 18;
+	setAttr ".tan" 2;
 	setAttr ".wgt" no;
 	setAttr -s 2 ".ktv[0:1]"  1 17.696333866540687 75 11.151495324267216;
-	setAttr -s 2 ".kit[1]"  2;
-	setAttr -s 2 ".kot[1]"  2;
 createNode animCurveTA -n "carrot_control_global_rotateX";
 	rename -uid "318F7AC7-449A-5BAF-506C-5EA3B384DB69";
-	setAttr ".tan" 18;
+	setAttr ".tan" 2;
 	setAttr ".wgt" no;
 	setAttr -s 2 ".ktv[0:1]"  1 0 75 0;
-	setAttr -s 2 ".kit[1]"  2;
-	setAttr -s 2 ".kot[1]"  2;
 createNode animCurveTA -n "carrot_control_global_rotateY";
 	rename -uid "F97BFB56-4A85-84DA-3140-1E8C46E84E39";
-	setAttr ".tan" 18;
+	setAttr ".tan" 2;
 	setAttr ".wgt" no;
 	setAttr -s 2 ".ktv[0:1]"  1 521.9711132578152 75 521.9711132578152;
-	setAttr -s 2 ".kit[1]"  2;
-	setAttr -s 2 ".kot[1]"  2;
 createNode animCurveTA -n "carrot_control_global_rotateZ";
 	rename -uid "2E632A28-46B7-0E81-EFFC-A78A813B4A1F";
-	setAttr ".tan" 18;
+	setAttr ".tan" 2;
 	setAttr ".wgt" no;
 	setAttr -s 2 ".ktv[0:1]"  1 0 75 0;
-	setAttr -s 2 ".kit[1]"  2;
-	setAttr -s 2 ".kot[1]"  2;
 createNode pairBlend -n "pairBlend1";
 	rename -uid "143E656A-4170-676A-8B54-108B2779501A";
 createNode animCurveTL -n "pairBlend1_inTranslateX1";
@@ -1193,19 +1236,34 @@ createNode animCurveTL -n "pairBlend1_inTranslateZ1";
 	setAttr ".ktv[0]"  1 0;
 createNode animCurveTL -n "control_L_arm_translateX";
 	rename -uid "31AB6093-4A41-05FD-FA34-8598A1242114";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.47663714376560623;
+	setAttr ".ktv[0]"  1 -0.51705942109513769;
+	setAttr ".kix[0]"  1;
+	setAttr ".kiy[0]"  0;
+	setAttr ".kox[0]"  1;
+	setAttr ".koy[0]"  0;
 createNode animCurveTL -n "control_L_arm_translateY";
 	rename -uid "DF67078A-4AFF-A6F1-477A-06A0FE29968E";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0.42579776464263691;
+	setAttr ".ktv[0]"  1 0.50257581601686685;
+	setAttr ".kix[0]"  1;
+	setAttr ".kiy[0]"  0;
+	setAttr ".kox[0]"  1;
+	setAttr ".koy[0]"  0;
 createNode animCurveTL -n "control_L_arm_translateZ";
 	rename -uid "52909924-40B8-25F6-037E-A6BA7A5DCC16";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.11277374134865849;
+	setAttr -s 3 ".ktv[0:2]"  1 0.33855600271548691 17 0.33197721100511368
+		 24 0.33855600271548691;
+	setAttr -s 3 ".kit[1:2]"  18 1;
+	setAttr -s 3 ".kot[1:2]"  18 1;
+	setAttr -s 3 ".kix[0:2]"  1 1 1;
+	setAttr -s 3 ".kiy[0:2]"  0 0 0;
+	setAttr -s 3 ".kox[0:2]"  1 1 1;
+	setAttr -s 3 ".koy[0:2]"  0 0 0;
 createNode animCurveTL -n "ikHandle_L_arm_translateX";
 	rename -uid "00C7366A-4C6B-CD74-DE59-C69A3A419C3C";
 	setAttr ".tan" 18;
@@ -1238,19 +1296,47 @@ createNode animCurveTL -n "ikHandle_L_arm_poleVectorConstraint1_translateZ";
 	setAttr ".ktv[0]"  1 0;
 createNode animCurveTL -n "control_R_arm_translateX";
 	rename -uid "9758A1F3-4C5D-8CF0-2AC5-52A7FFDEBCAD";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0.4387984186543713;
+	setAttr -s 18 ".ktv[0:17]"  1 0.5261910871399077 17 0.51612703977719465
+		 24 0.5261910871399077 29 0.51612703977719465 29.000000170068027 0.51612703977719465
+		 36 0.5261910871399077 41 0.51612703977719465 41.000000170068027 0.51612703977719465
+		 48 0.5261910871399077 53 0.51612703977719465 53.000000170068027 0.51612703977719465
+		 60 0.5261910871399077 65 0.51612703977719465 65.00000017006802 0.51612703977719465
+		 72 0.5261910871399077 77 0.51612703977719465 77.00000017006802 0.51612703977719465
+		 84 0.52619108713990781;
+	setAttr -s 18 ".kit[0:17]"  18 18 1 18 18 1 18 18 
+		1 18 18 1 18 18 1 18 18 1;
+	setAttr -s 18 ".kot[0:17]"  18 18 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 18 ".kix[2:17]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 18 ".kiy[2:17]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+	setAttr -s 18 ".kox[2:17]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 18 ".koy[2:17]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_R_arm_translateY";
 	rename -uid "D4E3FADB-4633-693F-7581-62BE131F2608";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0.29999220442749003;
+	setAttr -s 3 ".ktv[0:2]"  1 0.4516330884357263 17 0.371580209039168
+		 24 0.4516330884357263;
+	setAttr -s 3 ".kit[2]"  1;
+	setAttr -s 3 ".kot[2]"  1;
+	setAttr -s 3 ".kix[2]"  1;
+	setAttr -s 3 ".kiy[2]"  0;
+	setAttr -s 3 ".kox[2]"  1;
+	setAttr -s 3 ".koy[2]"  0;
 createNode animCurveTL -n "control_R_arm_translateZ";
 	rename -uid "80C186ED-4878-1123-AC81-BD8C85CE1D28";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.016049395571827649;
+	setAttr -s 3 ".ktv[0:2]"  1 0.3386431933873873 17 0.33206440167701412
+		 24 0.3386431933873873;
+	setAttr -s 3 ".kit[2]"  1;
+	setAttr -s 3 ".kot[2]"  1;
+	setAttr -s 3 ".kix[2]"  1;
+	setAttr -s 3 ".kiy[2]"  0;
+	setAttr -s 3 ".kox[2]"  1;
+	setAttr -s 3 ".koy[2]"  0;
 createNode animCurveTL -n "ikHandle_R_arm_translateX";
 	rename -uid "25DF497D-47C1-FE6B-97C8-27BDC18E2DB6";
 	setAttr ".tan" 18;
@@ -1285,17 +1371,53 @@ createNode animCurveTL -n "control_L_leg_translateX";
 	rename -uid "4959E180-474B-247A-A9C9-F18BC42F479D";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0.060259411492281673;
+	setAttr -s 16 ".ktv[0:15]"  1 0.060259411492281673 9 0.060259411492283102
+		 16.724136904761906 0.089830981600749413 24.448273979591836 0.060259411492283102 32.172414965986391 0.089830981600749413
+		 39.896551870748297 0.060259411492283102 47.620688775510203 0.089830981600749413 55.344825850340136 0.060259411492283102
+		 63.068966666666668 0.089830981600749413 70.793103741496594 0.060259411492283102 78.5172406462585 0.089830981600749413
+		 86.24137772108844 0.060259411492283102 93.965518537414965 0.089830981600749413 101.68965561224489 0.060259411492283102
+		 109.4137925170068 0.089830981600749413 117.13792959183674 0.061555737442065245;
+	setAttr -s 16 ".kit[15]"  1;
+	setAttr -s 16 ".kot[3:15]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 16 ".kix[15]"  1;
+	setAttr -s 16 ".kiy[15]"  0;
+	setAttr -s 16 ".kox[3:15]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 16 ".koy[3:15]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_L_leg_translateY";
 	rename -uid "2484AB85-418A-1BD8-5DFD-74876E44C76C";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 16 ".ktv[0:15]"  1 0 9 0 16.724136904761906 -0.0016312640860779437
+		 24.448273979591836 0 32.172414965986391 -0.0016312640860779437 39.896551870748297 0
+		 47.620688775510203 -0.0016312640860779437 55.344825850340136 0 63.068966666666668 -0.0016312640860779437
+		 70.793103741496594 0 78.5172406462585 -0.0016312640860779437 86.24137772108844 0
+		 93.965518537414965 -0.0016312640860779437 101.68965561224489 0 109.4137925170068 -0.0016312640860779437
+		 117.13792959183674 0.00054375469535930532;
+	setAttr -s 16 ".kit[15]"  1;
+	setAttr -s 16 ".kot[3:15]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 16 ".kix[15]"  1;
+	setAttr -s 16 ".kiy[15]"  0;
+	setAttr -s 16 ".kox[3:15]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 16 ".koy[3:15]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_L_leg_translateZ";
 	rename -uid "F85EA3CB-45E6-6FC1-E422-949A5C2EA70C";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0.12611251842063489;
+	setAttr -s 16 ".ktv[0:15]"  1 0.12611251842063489 9 0.37013197759759442
+		 16.724136904761906 -0.12957858743761219 24.448273979591836 0.37013197759759442 32.172414965986391 -0.12957858743761219
+		 39.896551870748297 0.37013197759759442 47.620688775510203 -0.12957858743761219 55.344825850340136 0.37013197759759442
+		 63.068966666666668 -0.12957858743761219 70.793103741496594 0.37013197759759442 78.5172406462585 -0.12957858743761219
+		 86.24137772108844 0.37013197759759442 93.965518537414965 -0.12957858743761219 101.68965561224489 0.37013197759759442
+		 109.4137925170068 -0.12957858743761219 117.13792959183674 0.31842487002928677;
+	setAttr -s 16 ".kit[15]"  1;
+	setAttr -s 16 ".kot[3:15]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 16 ".kix[15]"  1;
+	setAttr -s 16 ".kiy[15]"  0;
+	setAttr -s 16 ".kox[3:15]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 16 ".koy[3:15]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "foot_L_ankle_translateX";
 	rename -uid "D3341E61-4DEA-3703-7307-A089F3964CC4";
 	setAttr ".tan" 18;
@@ -1358,34 +1480,142 @@ createNode animCurveTL -n "ikHandle_L_leg_poleVectorConstraint1_translateZ";
 	setAttr ".ktv[0]"  1 0;
 createNode animCurveTL -n "control_hips_translateX";
 	rename -uid "440D6346-4E4F-F1B9-4203-159E0B8FE746";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.0089118554335844233;
+	setAttr -s 32 ".ktv[0:31]"  1 -0.0089118554335855613 6 -0.0089118554335855613
+		 9 -0.0089118554335841545 12.862070408163266 -0.0089118554335855613 16.724136904761906 -0.0089118554335841545
+		 20.586207482993196 -0.0089118554335855613 24.448273979591836 -0.0089118554335841545
+		 28.310344387755102 -0.0089118554335855613 32.172414965986391 -0.0089118554335841545
+		 36.034481462585035 -0.0089118554335855613 39.896551870748297 -0.0089118554335841545
+		 43.758622278911567 -0.0089118554335855613 47.620688775510203 -0.0089118554335841545
+		 51.4827593537415 -0.0089118554335855613 55.344825850340136 -0.0089118554335841545
+		 59.206896258503399 -0.0089118554335855613 63.068966666666668 -0.0089118554335841545
+		 66.931033333333332 -0.0089118554335855613 70.793103741496594 -0.0089118554335841545
+		 74.655174149659871 -0.0089118554335855613 78.5172406462585 -0.0089118554335841545
+		 82.379311224489797 -0.0089118554335855613 86.24137772108844 -0.0089118554335841545
+		 90.103448129251703 -0.0089118554335855613 93.965518537414965 -0.0089118554335841545
+		 97.827585034013609 -0.0089118554335855613 101.68965561224489 -0.0089118554335841545
+		 105.55172602040817 -0.0089118554335855613 109.4137925170068 -0.0089118554335841545
+		 113.27586309523809 -0.0089118554335855613 117.13792959183674 -0.0089118554335841545
+		 121 -0.0089118554335855613;
+	setAttr -s 32 ".kit[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kot[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kix[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".kiy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
+	setAttr -s 32 ".kox[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".koy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_hips_translateY";
 	rename -uid "ECA8B033-4135-7FA9-90D8-FD93E80A9818";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.1667764156927164;
+	setAttr -s 21 ".ktv[0:20]"  1 -0.018857793429714002 6 -0.018857793429714002
+		 9 -0.069578630227525459 12.862070408163266 -0.018857793429714002 17 -0.069578630227525459
+		 20.586207482993196 -0.018857793429714002 24 -0.069578630227525459 28.310344387755102 -0.018857793429714002
+		 32 -0.069578630227525459 36.034481462585035 -0.018857793429714002 40 -0.069578630227525459
+		 43.758622278911567 -0.018857793429714002 48 -0.069578630227525459 51.4827593537415 -0.018857793429714002
+		 55 -0.069578630227525459 59.206896258503399 -0.018857793429714002 63 -0.069578630227525459
+		 66.931033333333332 -0.018857793429714002 71 -0.069578630227525459 74.655174149659871 -0.018857793429714002
+		 79 -0.069578630227525459;
+	setAttr -s 21 ".kit[0:20]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 21 ".kot[0:20]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 21 ".kix[3:20]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 21 ".kiy[3:20]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+	setAttr -s 21 ".kox[3:20]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 21 ".koy[3:20]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_hips_translateZ";
 	rename -uid "8C21063B-481A-BA74-5165-CE912610B6E9";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.24365453851726468;
+	setAttr -s 32 ".ktv[0:31]"  1 -0.018398572062909686 6 -0.018398572062909686
+		 9 -0.018398572062905363 12.862070408163266 -0.018398572062909686 16.724136904761906 -0.018398572062905363
+		 20.586207482993196 -0.018398572062909686 24.448273979591836 -0.018398572062905363
+		 28.310344387755102 -0.018398572062909686 32.172414965986391 -0.018398572062905363
+		 36.034481462585035 -0.018398572062909686 39.896551870748297 -0.018398572062905363
+		 43.758622278911567 -0.018398572062909686 47.620688775510203 -0.018398572062905363
+		 51.4827593537415 -0.018398572062909686 55.344825850340136 -0.018398572062905363 59.206896258503399 -0.018398572062909686
+		 63.068966666666668 -0.018398572062905363 66.931033333333332 -0.018398572062909686
+		 70.793103741496594 -0.018398572062905363 74.655174149659871 -0.018398572062909686
+		 78.5172406462585 -0.018398572062905363 82.379311224489797 -0.018398572062909686 86.24137772108844 -0.018398572062905363
+		 90.103448129251703 -0.018398572062909686 93.965518537414965 -0.018398572062905363
+		 97.827585034013609 -0.018398572062909686 101.68965561224489 -0.018398572062905363
+		 105.55172602040817 -0.018398572062909686 109.4137925170068 -0.018398572062905363
+		 113.27586309523809 -0.018398572062909686 117.13792959183674 -0.018398572062905363
+		 121 -0.018398572062909686;
+	setAttr -s 32 ".kit[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kot[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kix[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".kiy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
+	setAttr -s 32 ".kox[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".koy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_L_leg1_translateX";
 	rename -uid "CDA042F7-44D8-3A17-2A17-6BB8C01F963A";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.15994534685411493;
+	setAttr -s 17 ".ktv[0:16]"  1 -0.15994534685411493 6 -0.15994534685411177
+		 9 -0.00068977910277387314 16.724136904761906 -0.1594568328426032 24.448273979591836 -0.00068977910277387314
+		 32.172414965986391 -0.1594568328426032 39.896551870748297 -0.00068977910277387314
+		 47.620688775510203 -0.1594568328426032 55.344825850340136 -0.00068977910277387314
+		 63.068966666666668 -0.1594568328426032 70.793103741496594 -0.00068977910277387314
+		 78.5172406462585 -0.1594568328426032 86.24137772108844 -0.00068977910277387314 93.965518537414965 -0.1594568328426032
+		 101.68965561224489 -0.00068977910277387314 109.4137925170068 -0.1594568328426032
+		 117.13792959183674 0.00036991078504975962;
+	setAttr -s 17 ".kit[16]"  1;
+	setAttr -s 17 ".kot[4:16]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 17 ".kix[16]"  1;
+	setAttr -s 17 ".kiy[16]"  0;
+	setAttr -s 17 ".kox[4:16]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 17 ".koy[4:16]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_L_leg1_translateY";
 	rename -uid "06E486C6-487F-E6C2-9AC6-F1B9472B9ADF";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 17 ".ktv[0:16]"  1 0 6 0 9 0 16.724136904761906 0 24.448273979591836 0
+		 32.172414965986391 0 39.896551870748297 0 47.620688775510203 0 55.344825850340136 0
+		 63.068966666666668 0 70.793103741496594 0 78.5172406462585 0 86.24137772108844 0
+		 93.965518537414965 0 101.68965561224489 0 109.4137925170068 0 117.13792959183674 0;
+	setAttr -s 17 ".kit[16]"  1;
+	setAttr -s 17 ".kot[4:16]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 17 ".kix[16]"  1;
+	setAttr -s 17 ".kiy[16]"  0;
+	setAttr -s 17 ".kox[4:16]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 17 ".koy[4:16]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "control_L_leg1_translateZ";
 	rename -uid "988D565A-47FA-4976-5EF9-A4BB44DB59CD";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -0.030011969314639453;
+	setAttr -s 17 ".ktv[0:16]"  1 -0.030011969314639453 6 -0.12119420975032302
+		 9 -0.25534244192406702 16.724136904761906 0.19262490662800813 24.448273979591836 -0.25534244192406702
+		 32.172414965986391 0.19262490662800813 39.896551870748297 -0.25534244192406702 47.620688775510203 0.19262490662800813
+		 55.344825850340136 -0.25534244192406702 63.068966666666668 0.19262490662800813 70.793103741496594 -0.25534244192406702
+		 78.5172406462585 0.19262490662800813 86.24137772108844 -0.25534244192406702 93.965518537414965 0.19262490662800813
+		 101.68965561224489 -0.25534244192406702 109.4137925170068 0.19262490662800813 117.13792959183674 -0.22000316013478402;
+	setAttr -s 17 ".kit[16]"  1;
+	setAttr -s 17 ".kot[4:16]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 17 ".kix[16]"  1;
+	setAttr -s 17 ".kiy[16]"  0;
+	setAttr -s 17 ".kox[4:16]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 17 ".koy[4:16]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTL -n "foot_R_ankle_translateX";
 	rename -uid "30715C68-4ECE-8668-F413-20B1FFAA950C";
 	setAttr ".tan" 18;
@@ -1715,19 +1945,40 @@ createNode animCurveTA -n "pairBlend1_inRotateZ1";
 	setAttr ".ktv[0]"  1 0;
 createNode animCurveTA -n "control_L_arm_rotateX";
 	rename -uid "41811968-425B-AC00-677B-FC80869FD96C";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -42.522936033125134;
+	setAttr -s 3 ".ktv[0:2]"  1 81.689329514686904 17 81.689329514686904
+		 24 81.689329514686904;
+	setAttr -s 3 ".kit[1:2]"  18 1;
+	setAttr -s 3 ".kot[1:2]"  18 1;
+	setAttr -s 3 ".kix[0:2]"  1 1 1;
+	setAttr -s 3 ".kiy[0:2]"  0 0 0;
+	setAttr -s 3 ".kox[0:2]"  1 1 1;
+	setAttr -s 3 ".koy[0:2]"  0 0 0;
 createNode animCurveTA -n "control_L_arm_rotateY";
 	rename -uid "A3D09EA7-4CC2-FF38-018F-F5A8BFEE1909";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0.61418370451797077;
+	setAttr -s 3 ".ktv[0:2]"  1 -172.69416619021777 17 -172.69416619021777
+		 24 -172.69416619021777;
+	setAttr -s 3 ".kit[1:2]"  18 1;
+	setAttr -s 3 ".kot[1:2]"  18 1;
+	setAttr -s 3 ".kix[0:2]"  1 1 1;
+	setAttr -s 3 ".kiy[0:2]"  0 0 0;
+	setAttr -s 3 ".kox[0:2]"  1 1 1;
+	setAttr -s 3 ".koy[0:2]"  0 0 0;
 createNode animCurveTA -n "control_L_arm_rotateZ";
 	rename -uid "B8853830-42DF-C67C-34F4-589811071528";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 102.96419339787489;
+	setAttr -s 3 ".ktv[0:2]"  1 -88.935816477479236 17 -88.935816477479236
+		 24 -88.935816477479236;
+	setAttr -s 3 ".kit[1:2]"  18 1;
+	setAttr -s 3 ".kot[1:2]"  18 1;
+	setAttr -s 3 ".kix[0:2]"  1 1 1;
+	setAttr -s 3 ".kiy[0:2]"  0 0 0;
+	setAttr -s 3 ".kox[0:2]"  1 1 1;
+	setAttr -s 3 ".koy[0:2]"  0 0 0;
 createNode animCurveTA -n "ikHandle_L_arm_rotateX";
 	rename -uid "4E221987-4CE2-A654-8F0A-AE9C678156EB";
 	setAttr ".tan" 18;
@@ -1762,17 +2013,38 @@ createNode animCurveTA -n "control_R_arm_rotateX";
 	rename -uid "704042D5-49A6-2533-5DEB-0DA9CA546866";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 107.92035462690052;
+	setAttr -s 3 ".ktv[0:2]"  1 218.92751826447682 17 218.92751826447682
+		 24 218.92751826447682;
+	setAttr -s 3 ".kit[2]"  1;
+	setAttr -s 3 ".kot[2]"  1;
+	setAttr -s 3 ".kix[2]"  1;
+	setAttr -s 3 ".kiy[2]"  0;
+	setAttr -s 3 ".kox[2]"  1;
+	setAttr -s 3 ".koy[2]"  0;
 createNode animCurveTA -n "control_R_arm_rotateY";
 	rename -uid "582B5019-4F40-E9C8-D327-8D97CBE7683C";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0.78503289304200774;
+	setAttr -s 3 ".ktv[0:2]"  1 7.9271973965159797 17 7.9271973965159797
+		 24 7.9271973965159797;
+	setAttr -s 3 ".kit[2]"  1;
+	setAttr -s 3 ".kot[2]"  1;
+	setAttr -s 3 ".kix[2]"  1;
+	setAttr -s 3 ".kiy[2]"  0;
+	setAttr -s 3 ".kox[2]"  1;
+	setAttr -s 3 ".koy[2]"  0;
 createNode animCurveTA -n "control_R_arm_rotateZ";
 	rename -uid "8BC00946-4185-58AE-D5C9-D480CC619BE1";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 -98.454488662974569;
+	setAttr -s 3 ".ktv[0:2]"  1 -95.41668136287899 17 -95.41668136287899
+		 24 -95.41668136287899;
+	setAttr -s 3 ".kit[2]"  1;
+	setAttr -s 3 ".kot[2]"  1;
+	setAttr -s 3 ".kix[2]"  1;
+	setAttr -s 3 ".kiy[2]"  0;
+	setAttr -s 3 ".kox[2]"  1;
+	setAttr -s 3 ".koy[2]"  0;
 createNode animCurveTA -n "ikHandle_R_arm_rotateX";
 	rename -uid "C140F2D4-4912-4374-C868-20A869268C1C";
 	setAttr ".tan" 18;
@@ -1807,17 +2079,53 @@ createNode animCurveTA -n "control_L_leg_rotateX";
 	rename -uid "F36310CF-4F5A-2036-EC55-1DB248043260";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 16 ".ktv[0:15]"  1 0 9 0 16.724136904761906 -0.0016312640860779437
+		 24.448273979591836 0 32.172414965986391 -0.0016312640860779437 39.896551870748297 0
+		 47.620688775510203 -0.0016312640860779437 55.344825850340136 0 63.068966666666668 -0.0016312640860779437
+		 70.793103741496594 0 78.5172406462585 -0.0016312640860779437 86.24137772108844 0
+		 93.965518537414965 -0.0016312640860779437 101.68965561224489 0 109.4137925170068 -0.0016312640860779437
+		 117.13792959183674 0;
+	setAttr -s 16 ".kit[15]"  1;
+	setAttr -s 16 ".kot[3:15]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 16 ".kix[15]"  1;
+	setAttr -s 16 ".kiy[15]"  0;
+	setAttr -s 16 ".kox[3:15]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 16 ".koy[3:15]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "control_L_leg_rotateY";
 	rename -uid "DB7376C8-4636-8D7C-F785-CF9F767FAC59";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 16 ".ktv[0:15]"  1 0 9 0 16.724136904761906 -0.0016312640860779437
+		 24.448273979591836 0 32.172414965986391 -0.0016312640860779437 39.896551870748297 0
+		 47.620688775510203 -0.0016312640860779437 55.344825850340136 0 63.068966666666668 -0.0016312640860779437
+		 70.793103741496594 0 78.5172406462585 -0.0016312640860779437 86.24137772108844 0
+		 93.965518537414965 -0.0016312640860779437 101.68965561224489 0 109.4137925170068 -0.0016312640860779437
+		 117.13792959183674 0;
+	setAttr -s 16 ".kit[15]"  1;
+	setAttr -s 16 ".kot[3:15]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 16 ".kix[15]"  1;
+	setAttr -s 16 ".kiy[15]"  0;
+	setAttr -s 16 ".kox[3:15]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 16 ".koy[3:15]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "control_L_leg_rotateZ";
 	rename -uid "07340BE1-4191-C6D6-3755-498EB955F646";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 16 ".ktv[0:15]"  1 0 9 0 16.724136904761906 -0.0016312640860779437
+		 24.448273979591836 0 32.172414965986391 -0.0016312640860779437 39.896551870748297 0
+		 47.620688775510203 -0.0016312640860779437 55.344825850340136 0 63.068966666666668 -0.0016312640860779437
+		 70.793103741496594 0 78.5172406462585 -0.0016312640860779437 86.24137772108844 0
+		 93.965518537414965 -0.0016312640860779437 101.68965561224489 0 109.4137925170068 -0.0016312640860779437
+		 117.13792959183674 0;
+	setAttr -s 16 ".kit[15]"  1;
+	setAttr -s 16 ".kot[3:15]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 16 ".kix[15]"  1;
+	setAttr -s 16 ".kiy[15]"  0;
+	setAttr -s 16 ".kox[3:15]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 16 ".koy[3:15]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "foot_L_ankle_rotateX";
 	rename -uid "A7C5DCAF-4A54-69CB-01B0-DB8628411249";
 	setAttr ".tan" 18;
@@ -1880,19 +2188,82 @@ createNode animCurveTA -n "ikHandle_L_leg_poleVectorConstraint1_rotateZ";
 	setAttr ".ktv[0]"  1 0;
 createNode animCurveTA -n "control_hips_rotateX";
 	rename -uid "4C37C073-4392-E9E9-AF42-50A428627689";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 32 ".ktv[0:31]"  1 0 6 0 9 0 12.862070408163266 0 16.724136904761906 0
+		 20.586207482993196 0 24.448273979591836 0 28.310344387755102 0 32.172414965986391 0
+		 36.034481462585035 0 39.896551870748297 0 43.758622278911567 0 47.620688775510203 0
+		 51.4827593537415 0 55.344825850340136 0 59.206896258503399 0 63.068966666666668 0
+		 66.931033333333332 0 70.793103741496594 0 74.655174149659871 0 78.5172406462585 0
+		 82.379311224489797 0 86.24137772108844 0 90.103448129251703 0 93.965518537414965 0
+		 97.827585034013609 0 101.68965561224489 0 105.55172602040817 0 109.4137925170068 0
+		 113.27586309523809 0 117.13792959183674 0 121 0;
+	setAttr -s 32 ".kit[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kot[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kix[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".kiy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
+	setAttr -s 32 ".kox[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".koy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "control_hips_rotateY";
 	rename -uid "0359C2E6-44A7-D5FA-EC0E-6092D07DF4CE";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 32 ".ktv[0:31]"  1 0 6 0 9 0 12.862070408163266 0 16.724136904761906 0
+		 20.586207482993196 0 24.448273979591836 0 28.310344387755102 0 32.172414965986391 0
+		 36.034481462585035 0 39.896551870748297 0 43.758622278911567 0 47.620688775510203 0
+		 51.4827593537415 0 55.344825850340136 0 59.206896258503399 0 63.068966666666668 0
+		 66.931033333333332 0 70.793103741496594 0 74.655174149659871 0 78.5172406462585 0
+		 82.379311224489797 0 86.24137772108844 0 90.103448129251703 0 93.965518537414965 0
+		 97.827585034013609 0 101.68965561224489 0 105.55172602040817 0 109.4137925170068 0
+		 113.27586309523809 0 117.13792959183674 0 121 0;
+	setAttr -s 32 ".kit[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kot[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kix[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".kiy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
+	setAttr -s 32 ".kox[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".koy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "control_hips_rotateZ";
 	rename -uid "B3A797F0-47DE-F9CA-08B1-23A5B6E24441";
-	setAttr ".tan" 18;
+	setAttr ".tan" 1;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 32 ".ktv[0:31]"  1 0 6 0 9 0 12.862070408163266 0 16.724136904761906 0
+		 20.586207482993196 0 24.448273979591836 0 28.310344387755102 0 32.172414965986391 0
+		 36.034481462585035 0 39.896551870748297 0 43.758622278911567 0 47.620688775510203 0
+		 51.4827593537415 0 55.344825850340136 0 59.206896258503399 0 63.068966666666668 0
+		 66.931033333333332 0 70.793103741496594 0 74.655174149659871 0 78.5172406462585 0
+		 82.379311224489797 0 86.24137772108844 0 90.103448129251703 0 93.965518537414965 0
+		 97.827585034013609 0 101.68965561224489 0 105.55172602040817 0 109.4137925170068 0
+		 113.27586309523809 0 117.13792959183674 0 121 0;
+	setAttr -s 32 ".kit[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kot[0:31]"  18 18 18 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1;
+	setAttr -s 32 ".kix[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".kiy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
+	setAttr -s 32 ".kox[3:31]"  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+		1 1 1 1 1 1 1 1 1;
+	setAttr -s 32 ".koy[3:31]"  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+		0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "control_stem1_rotateX";
 	rename -uid "949B5F95-43E3-1299-E033-878590D1838A";
 	setAttr ".tan" 18;
@@ -1927,17 +2298,47 @@ createNode animCurveTA -n "control_L_leg1_rotateX";
 	rename -uid "AF2167FA-49B2-E0A7-F28B-698000248C0F";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 17 ".ktv[0:16]"  1 0 6 0 9 0 16.724136904761906 0 24.448273979591836 0
+		 32.172414965986391 0 39.896551870748297 0 47.620688775510203 0 55.344825850340136 0
+		 63.068966666666668 0 70.793103741496594 0 78.5172406462585 0 86.24137772108844 0
+		 93.965518537414965 0 101.68965561224489 0 109.4137925170068 0 117.13792959183674 0;
+	setAttr -s 17 ".kit[16]"  1;
+	setAttr -s 17 ".kot[4:16]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 17 ".kix[16]"  1;
+	setAttr -s 17 ".kiy[16]"  0;
+	setAttr -s 17 ".kox[4:16]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 17 ".koy[4:16]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "control_L_leg1_rotateY";
 	rename -uid "CA283615-455E-635C-7CE1-F2AF8F4FCBAB";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 17 ".ktv[0:16]"  1 0 6 0 9 0 16.724136904761906 0 24.448273979591836 0
+		 32.172414965986391 0 39.896551870748297 0 47.620688775510203 0 55.344825850340136 0
+		 63.068966666666668 0 70.793103741496594 0 78.5172406462585 0 86.24137772108844 0
+		 93.965518537414965 0 101.68965561224489 0 109.4137925170068 0 117.13792959183674 0;
+	setAttr -s 17 ".kit[16]"  1;
+	setAttr -s 17 ".kot[4:16]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 17 ".kix[16]"  1;
+	setAttr -s 17 ".kiy[16]"  0;
+	setAttr -s 17 ".kox[4:16]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 17 ".koy[4:16]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "control_L_leg1_rotateZ";
 	rename -uid "6298C57A-4B32-9C7A-856C-F39AA8B061F0";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
-	setAttr ".ktv[0]"  1 0;
+	setAttr -s 17 ".ktv[0:16]"  1 0 6 0 9 0 16.724136904761906 0 24.448273979591836 0
+		 32.172414965986391 0 39.896551870748297 0 47.620688775510203 0 55.344825850340136 0
+		 63.068966666666668 0 70.793103741496594 0 78.5172406462585 0 86.24137772108844 0
+		 93.965518537414965 0 101.68965561224489 0 109.4137925170068 0 117.13792959183674 0;
+	setAttr -s 17 ".kit[16]"  1;
+	setAttr -s 17 ".kot[4:16]"  1 18 1 18 1 18 1 18 
+		1 18 1 18 1;
+	setAttr -s 17 ".kix[16]"  1;
+	setAttr -s 17 ".kiy[16]"  0;
+	setAttr -s 17 ".kox[4:16]"  1 1 1 1 1 1 1 1 1 1 1 1 1;
+	setAttr -s 17 ".koy[4:16]"  0 0 0 0 0 0 0 0 0 0 0 0 0;
 createNode animCurveTA -n "foot_R_ankle_rotateX";
 	rename -uid "992FFC75-4DB3-D74F-B737-D5BC66AE1AE2";
 	setAttr ".tan" 18;
@@ -2188,9 +2589,19 @@ createNode animCurveTA -n "grp_locators_scaleConstraint1_rotateZ";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
 	setAttr ".ktv[0]"  1 0;
+createNode reference -n "TrashRN";
+	rename -uid "EF4F8929-40E2-5F01-58F0-AE8FD6FE5B44";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"TrashRN"
+		"TrashRN" 0
+		"TrashRN" 2
+		0 "|Trash:Trash_geo" "|grp_trash" "-s -r "
+		2 "|grp_trash|Trash:Trash_geo" "translate" " -type \"double3\" 0.1263600580582224 -0.021039043475255773 -0.031300836947580776";
+	setAttr ".ptag" -type "string" "";
+lockNode -l 1 ;
 select -ne :time1;
-	setAttr ".o" 75;
-	setAttr ".unw" 75;
+	setAttr ".o" 71;
+	setAttr ".unw" 71;
 select -ne :hardwareRenderingGlobals;
 	setAttr ".otfna" -type "stringArray" 22 "NURBS Curves" "NURBS Surfaces" "Polygons" "Subdiv Surface" "Particles" "Particle Instance" "Fluids" "Strokes" "Image Planes" "UI" "Lights" "Cameras" "Locators" "Joints" "IK Handles" "Deformers" "Motion Trails" "Components" "Hair Systems" "Follicles" "Misc. UI" "Ornaments"  ;
 	setAttr ".otfva" -type "Int32Array" 22 0 1 1 1 1 1
@@ -2198,20 +2609,20 @@ select -ne :hardwareRenderingGlobals;
 		 0 0 0 0 ;
 	setAttr ".fprt" yes;
 select -ne :renderPartition;
-	setAttr -s 21 ".st";
+	setAttr -s 22 ".st";
 select -ne :renderGlobalsList1;
 select -ne :defaultShaderList1;
-	setAttr -s 21 ".s";
+	setAttr -s 22 ".s";
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
 select -ne :defaultRenderUtilityList1;
-	setAttr -s 12 ".u";
+	setAttr -s 51 ".u";
 select -ne :defaultRenderingList1;
-	setAttr -s 4 ".r";
+	setAttr -s 5 ".r";
 select -ne :lightList1;
 	setAttr -s 3 ".l";
 select -ne :defaultTextureList1;
-	setAttr -s 11 ".tx";
+	setAttr -s 31 ".tx";
 select -ne :initialShadingGroup;
 	setAttr -s 2 ".dsm";
 	setAttr ".ro" yes;
@@ -2250,256 +2661,275 @@ connectAttr "carrot_control_global_translateZ.o" "CarrotRN.phl[3]";
 connectAttr "carrot_control_global_rotateX.o" "CarrotRN.phl[4]";
 connectAttr "carrot_control_global_rotateY.o" "CarrotRN.phl[5]";
 connectAttr "carrot_control_global_rotateZ.o" "CarrotRN.phl[6]";
-connectAttr "pairBlend1.otx" "CarrotRN.phl[7]";
-connectAttr "pairBlend1.oty" "CarrotRN.phl[8]";
-connectAttr "pairBlend1.otz" "CarrotRN.phl[9]";
-connectAttr "pairBlend1.orx" "CarrotRN.phl[10]";
-connectAttr "pairBlend1.ory" "CarrotRN.phl[11]";
-connectAttr "pairBlend1.orz" "CarrotRN.phl[12]";
+connectAttr "pairBlend1.ory" "CarrotRN.phl[7]";
+connectAttr "pairBlend1.orx" "CarrotRN.phl[8]";
+connectAttr "pairBlend1.orz" "CarrotRN.phl[9]";
+connectAttr "pairBlend1.otx" "CarrotRN.phl[10]";
+connectAttr "pairBlend1.oty" "CarrotRN.phl[11]";
+connectAttr "pairBlend1.otz" "CarrotRN.phl[12]";
 connectAttr "CarrotRN.phl[13]" "pairBlend1.w";
-connectAttr "control_L_arm_translateX.o" "CarrotRN.phl[14]";
-connectAttr "control_L_arm_translateY.o" "CarrotRN.phl[15]";
-connectAttr "control_L_arm_translateZ.o" "CarrotRN.phl[16]";
-connectAttr "control_L_arm_rotateZ.o" "CarrotRN.phl[17]";
-connectAttr "control_L_arm_rotateX.o" "CarrotRN.phl[18]";
-connectAttr "control_L_arm_rotateY.o" "CarrotRN.phl[19]";
-connectAttr "ikHandle_L_arm_translateX.o" "CarrotRN.phl[20]";
-connectAttr "ikHandle_L_arm_translateY.o" "CarrotRN.phl[21]";
-connectAttr "ikHandle_L_arm_translateZ.o" "CarrotRN.phl[22]";
-connectAttr "ikHandle_L_arm_rotateX.o" "CarrotRN.phl[23]";
-connectAttr "ikHandle_L_arm_rotateY.o" "CarrotRN.phl[24]";
-connectAttr "ikHandle_L_arm_rotateZ.o" "CarrotRN.phl[25]";
-connectAttr "ikHandle_L_arm_poleVectorConstraint1_translateX.o" "CarrotRN.phl[26]"
+connectAttr "CarrotRN.phl[14]" "grp_trash_parentConstraint1.tg[0].ts";
+connectAttr "CarrotRN.phl[15]" "grp_trash_parentConstraint1.tg[0].tt";
+connectAttr "control_L_arm_translateX.o" "CarrotRN.phl[16]";
+connectAttr "control_L_arm_translateY.o" "CarrotRN.phl[17]";
+connectAttr "control_L_arm_translateZ.o" "CarrotRN.phl[18]";
+connectAttr "CarrotRN.phl[19]" "grp_trash_parentConstraint1.tg[0].tr";
+connectAttr "control_L_arm_rotateX.o" "CarrotRN.phl[20]";
+connectAttr "control_L_arm_rotateY.o" "CarrotRN.phl[21]";
+connectAttr "control_L_arm_rotateZ.o" "CarrotRN.phl[22]";
+connectAttr "CarrotRN.phl[23]" "grp_trash_parentConstraint1.tg[0].trp";
+connectAttr "CarrotRN.phl[24]" "grp_trash_parentConstraint1.tg[0].trt";
+connectAttr "CarrotRN.phl[25]" "grp_trash_parentConstraint1.tg[0].tpm";
+connectAttr "CarrotRN.phl[26]" "grp_trash_parentConstraint1.tg[0].tro";
+connectAttr "ikHandle_L_arm_translateX.o" "CarrotRN.phl[27]";
+connectAttr "ikHandle_L_arm_translateY.o" "CarrotRN.phl[28]";
+connectAttr "ikHandle_L_arm_translateZ.o" "CarrotRN.phl[29]";
+connectAttr "ikHandle_L_arm_rotateX.o" "CarrotRN.phl[30]";
+connectAttr "ikHandle_L_arm_rotateY.o" "CarrotRN.phl[31]";
+connectAttr "ikHandle_L_arm_rotateZ.o" "CarrotRN.phl[32]";
+connectAttr "ikHandle_L_arm_poleVectorConstraint1_translateX.o" "CarrotRN.phl[33]"
 		;
-connectAttr "ikHandle_L_arm_poleVectorConstraint1_translateY.o" "CarrotRN.phl[27]"
+connectAttr "ikHandle_L_arm_poleVectorConstraint1_translateY.o" "CarrotRN.phl[34]"
 		;
-connectAttr "ikHandle_L_arm_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[28]"
+connectAttr "ikHandle_L_arm_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[35]"
 		;
-connectAttr "ikHandle_L_arm_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[29]";
-connectAttr "ikHandle_L_arm_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[30]";
-connectAttr "ikHandle_L_arm_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[31]";
-connectAttr "control_R_arm_translateX.o" "CarrotRN.phl[32]";
-connectAttr "control_R_arm_translateY.o" "CarrotRN.phl[33]";
-connectAttr "control_R_arm_translateZ.o" "CarrotRN.phl[34]";
-connectAttr "control_R_arm_rotateZ.o" "CarrotRN.phl[35]";
-connectAttr "control_R_arm_rotateX.o" "CarrotRN.phl[36]";
-connectAttr "control_R_arm_rotateY.o" "CarrotRN.phl[37]";
-connectAttr "ikHandle_R_arm_translateX.o" "CarrotRN.phl[38]";
-connectAttr "ikHandle_R_arm_translateY.o" "CarrotRN.phl[39]";
-connectAttr "ikHandle_R_arm_translateZ.o" "CarrotRN.phl[40]";
-connectAttr "ikHandle_R_arm_rotateX.o" "CarrotRN.phl[41]";
-connectAttr "ikHandle_R_arm_rotateY.o" "CarrotRN.phl[42]";
-connectAttr "ikHandle_R_arm_rotateZ.o" "CarrotRN.phl[43]";
-connectAttr "ikHandle_R_arm_poleVectorConstraint1_translateX.o" "CarrotRN.phl[44]"
+connectAttr "ikHandle_L_arm_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[36]";
+connectAttr "ikHandle_L_arm_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[37]";
+connectAttr "ikHandle_L_arm_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[38]";
+connectAttr "control_R_arm_translateX.o" "CarrotRN.phl[39]";
+connectAttr "control_R_arm_translateY.o" "CarrotRN.phl[40]";
+connectAttr "control_R_arm_translateZ.o" "CarrotRN.phl[41]";
+connectAttr "control_R_arm_rotateZ.o" "CarrotRN.phl[42]";
+connectAttr "control_R_arm_rotateX.o" "CarrotRN.phl[43]";
+connectAttr "control_R_arm_rotateY.o" "CarrotRN.phl[44]";
+connectAttr "ikHandle_R_arm_translateX.o" "CarrotRN.phl[45]";
+connectAttr "ikHandle_R_arm_translateY.o" "CarrotRN.phl[46]";
+connectAttr "ikHandle_R_arm_translateZ.o" "CarrotRN.phl[47]";
+connectAttr "ikHandle_R_arm_rotateX.o" "CarrotRN.phl[48]";
+connectAttr "ikHandle_R_arm_rotateY.o" "CarrotRN.phl[49]";
+connectAttr "ikHandle_R_arm_rotateZ.o" "CarrotRN.phl[50]";
+connectAttr "ikHandle_R_arm_poleVectorConstraint1_translateX.o" "CarrotRN.phl[51]"
 		;
-connectAttr "ikHandle_R_arm_poleVectorConstraint1_translateY.o" "CarrotRN.phl[45]"
+connectAttr "ikHandle_R_arm_poleVectorConstraint1_translateY.o" "CarrotRN.phl[52]"
 		;
-connectAttr "ikHandle_R_arm_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[46]"
+connectAttr "ikHandle_R_arm_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[53]"
 		;
-connectAttr "ikHandle_R_arm_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[47]";
-connectAttr "ikHandle_R_arm_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[48]";
-connectAttr "ikHandle_R_arm_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[49]";
-connectAttr "control_L_leg_translateX.o" "CarrotRN.phl[50]";
-connectAttr "control_L_leg_translateZ.o" "CarrotRN.phl[51]";
-connectAttr "control_L_leg_translateY.o" "CarrotRN.phl[52]";
-connectAttr "control_L_leg_rotateX.o" "CarrotRN.phl[53]";
-connectAttr "control_L_leg_rotateY.o" "CarrotRN.phl[54]";
-connectAttr "control_L_leg_rotateZ.o" "CarrotRN.phl[55]";
-connectAttr "foot_L_ankle_translateX.o" "CarrotRN.phl[56]";
-connectAttr "foot_L_ankle_translateY.o" "CarrotRN.phl[57]";
-connectAttr "foot_L_ankle_translateZ.o" "CarrotRN.phl[58]";
-connectAttr "foot_L_ankle_rotateX.o" "CarrotRN.phl[59]";
-connectAttr "foot_L_ankle_rotateY.o" "CarrotRN.phl[60]";
-connectAttr "foot_L_ankle_rotateZ.o" "CarrotRN.phl[61]";
-connectAttr "foot_L_toe_translateX.o" "CarrotRN.phl[62]";
-connectAttr "foot_L_toe_translateZ.o" "CarrotRN.phl[63]";
-connectAttr "foot_L_toe_translateY.o" "CarrotRN.phl[64]";
-connectAttr "foot_L_toe_rotateX.o" "CarrotRN.phl[65]";
-connectAttr "foot_L_toe_rotateY.o" "CarrotRN.phl[66]";
-connectAttr "foot_L_toe_rotateZ.o" "CarrotRN.phl[67]";
-connectAttr "ikHandle_L_leg_translateX.o" "CarrotRN.phl[68]";
-connectAttr "ikHandle_L_leg_translateY.o" "CarrotRN.phl[69]";
-connectAttr "ikHandle_L_leg_translateZ.o" "CarrotRN.phl[70]";
-connectAttr "ikHandle_L_leg_rotateX.o" "CarrotRN.phl[71]";
-connectAttr "ikHandle_L_leg_rotateY.o" "CarrotRN.phl[72]";
-connectAttr "ikHandle_L_leg_rotateZ.o" "CarrotRN.phl[73]";
-connectAttr "ikHandle_L_leg_poleVectorConstraint1_translateX.o" "CarrotRN.phl[74]"
+connectAttr "ikHandle_R_arm_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[54]";
+connectAttr "ikHandle_R_arm_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[55]";
+connectAttr "ikHandle_R_arm_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[56]";
+connectAttr "control_L_leg_translateX.o" "CarrotRN.phl[57]";
+connectAttr "control_L_leg_translateZ.o" "CarrotRN.phl[58]";
+connectAttr "control_L_leg_translateY.o" "CarrotRN.phl[59]";
+connectAttr "control_L_leg_rotateX.o" "CarrotRN.phl[60]";
+connectAttr "control_L_leg_rotateY.o" "CarrotRN.phl[61]";
+connectAttr "control_L_leg_rotateZ.o" "CarrotRN.phl[62]";
+connectAttr "foot_L_ankle_translateX.o" "CarrotRN.phl[63]";
+connectAttr "foot_L_ankle_translateY.o" "CarrotRN.phl[64]";
+connectAttr "foot_L_ankle_translateZ.o" "CarrotRN.phl[65]";
+connectAttr "foot_L_ankle_rotateX.o" "CarrotRN.phl[66]";
+connectAttr "foot_L_ankle_rotateY.o" "CarrotRN.phl[67]";
+connectAttr "foot_L_ankle_rotateZ.o" "CarrotRN.phl[68]";
+connectAttr "foot_L_toe_translateX.o" "CarrotRN.phl[69]";
+connectAttr "foot_L_toe_translateZ.o" "CarrotRN.phl[70]";
+connectAttr "foot_L_toe_translateY.o" "CarrotRN.phl[71]";
+connectAttr "foot_L_toe_rotateX.o" "CarrotRN.phl[72]";
+connectAttr "foot_L_toe_rotateY.o" "CarrotRN.phl[73]";
+connectAttr "foot_L_toe_rotateZ.o" "CarrotRN.phl[74]";
+connectAttr "ikHandle_L_leg_translateX.o" "CarrotRN.phl[75]";
+connectAttr "ikHandle_L_leg_translateY.o" "CarrotRN.phl[76]";
+connectAttr "ikHandle_L_leg_translateZ.o" "CarrotRN.phl[77]";
+connectAttr "ikHandle_L_leg_rotateX.o" "CarrotRN.phl[78]";
+connectAttr "ikHandle_L_leg_rotateY.o" "CarrotRN.phl[79]";
+connectAttr "ikHandle_L_leg_rotateZ.o" "CarrotRN.phl[80]";
+connectAttr "ikHandle_L_leg_poleVectorConstraint1_translateX.o" "CarrotRN.phl[81]"
 		;
-connectAttr "ikHandle_L_leg_poleVectorConstraint1_translateY.o" "CarrotRN.phl[75]"
+connectAttr "ikHandle_L_leg_poleVectorConstraint1_translateY.o" "CarrotRN.phl[82]"
 		;
-connectAttr "ikHandle_L_leg_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[76]"
+connectAttr "ikHandle_L_leg_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[83]"
 		;
-connectAttr "ikHandle_L_leg_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[77]";
-connectAttr "ikHandle_L_leg_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[78]";
-connectAttr "ikHandle_L_leg_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[79]";
-connectAttr "control_hips_translateX.o" "CarrotRN.phl[80]";
-connectAttr "control_hips_translateY.o" "CarrotRN.phl[81]";
-connectAttr "control_hips_translateZ.o" "CarrotRN.phl[82]";
-connectAttr "control_hips_rotateX.o" "CarrotRN.phl[83]";
-connectAttr "control_hips_rotateY.o" "CarrotRN.phl[84]";
-connectAttr "control_hips_rotateZ.o" "CarrotRN.phl[85]";
-connectAttr "control_stem1_rotateX.o" "CarrotRN.phl[86]";
-connectAttr "control_stem1_rotateY.o" "CarrotRN.phl[87]";
-connectAttr "control_stem1_rotateZ.o" "CarrotRN.phl[88]";
-connectAttr "control_stem_rotateX.o" "CarrotRN.phl[89]";
-connectAttr "control_stem_rotateY.o" "CarrotRN.phl[90]";
-connectAttr "control_stem_rotateZ.o" "CarrotRN.phl[91]";
-connectAttr "control_L_leg1_translateX.o" "CarrotRN.phl[92]";
-connectAttr "control_L_leg1_translateZ.o" "CarrotRN.phl[93]";
-connectAttr "control_L_leg1_translateY.o" "CarrotRN.phl[94]";
-connectAttr "control_L_leg1_rotateX.o" "CarrotRN.phl[95]";
-connectAttr "control_L_leg1_rotateY.o" "CarrotRN.phl[96]";
-connectAttr "control_L_leg1_rotateZ.o" "CarrotRN.phl[97]";
-connectAttr "foot_R_ankle_translateX.o" "CarrotRN.phl[98]";
-connectAttr "foot_R_ankle_translateY.o" "CarrotRN.phl[99]";
-connectAttr "foot_R_ankle_translateZ.o" "CarrotRN.phl[100]";
-connectAttr "foot_R_ankle_rotateX.o" "CarrotRN.phl[101]";
-connectAttr "foot_R_ankle_rotateY.o" "CarrotRN.phl[102]";
-connectAttr "foot_R_ankle_rotateZ.o" "CarrotRN.phl[103]";
-connectAttr "foot_R_toe_translateX.o" "CarrotRN.phl[104]";
-connectAttr "foot_R_toe_translateY.o" "CarrotRN.phl[105]";
-connectAttr "foot_R_toe_translateZ.o" "CarrotRN.phl[106]";
-connectAttr "foot_R_toe_rotateX.o" "CarrotRN.phl[107]";
-connectAttr "foot_R_toe_rotateY.o" "CarrotRN.phl[108]";
-connectAttr "foot_R_toe_rotateZ.o" "CarrotRN.phl[109]";
-connectAttr "ikHandle_R_leg_translateX.o" "CarrotRN.phl[110]";
-connectAttr "ikHandle_R_leg_translateY.o" "CarrotRN.phl[111]";
-connectAttr "ikHandle_R_leg_translateZ.o" "CarrotRN.phl[112]";
-connectAttr "ikHandle_R_leg_rotateX.o" "CarrotRN.phl[113]";
-connectAttr "ikHandle_R_leg_rotateY.o" "CarrotRN.phl[114]";
-connectAttr "ikHandle_R_leg_rotateZ.o" "CarrotRN.phl[115]";
-connectAttr "ikHandle_R_leg_poleVectorConstraint1_translateX.o" "CarrotRN.phl[116]"
+connectAttr "ikHandle_L_leg_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[84]";
+connectAttr "ikHandle_L_leg_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[85]";
+connectAttr "ikHandle_L_leg_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[86]";
+connectAttr "control_hips_translateX.o" "CarrotRN.phl[87]";
+connectAttr "control_hips_translateY.o" "CarrotRN.phl[88]";
+connectAttr "control_hips_translateZ.o" "CarrotRN.phl[89]";
+connectAttr "control_hips_rotateX.o" "CarrotRN.phl[90]";
+connectAttr "control_hips_rotateY.o" "CarrotRN.phl[91]";
+connectAttr "control_hips_rotateZ.o" "CarrotRN.phl[92]";
+connectAttr "control_stem1_rotateX.o" "CarrotRN.phl[93]";
+connectAttr "control_stem1_rotateY.o" "CarrotRN.phl[94]";
+connectAttr "control_stem1_rotateZ.o" "CarrotRN.phl[95]";
+connectAttr "control_stem_rotateX.o" "CarrotRN.phl[96]";
+connectAttr "control_stem_rotateY.o" "CarrotRN.phl[97]";
+connectAttr "control_stem_rotateZ.o" "CarrotRN.phl[98]";
+connectAttr "control_L_leg1_translateX.o" "CarrotRN.phl[99]";
+connectAttr "control_L_leg1_translateZ.o" "CarrotRN.phl[100]";
+connectAttr "control_L_leg1_translateY.o" "CarrotRN.phl[101]";
+connectAttr "control_L_leg1_rotateX.o" "CarrotRN.phl[102]";
+connectAttr "control_L_leg1_rotateY.o" "CarrotRN.phl[103]";
+connectAttr "control_L_leg1_rotateZ.o" "CarrotRN.phl[104]";
+connectAttr "foot_R_ankle_translateX.o" "CarrotRN.phl[105]";
+connectAttr "foot_R_ankle_translateY.o" "CarrotRN.phl[106]";
+connectAttr "foot_R_ankle_translateZ.o" "CarrotRN.phl[107]";
+connectAttr "foot_R_ankle_rotateX.o" "CarrotRN.phl[108]";
+connectAttr "foot_R_ankle_rotateY.o" "CarrotRN.phl[109]";
+connectAttr "foot_R_ankle_rotateZ.o" "CarrotRN.phl[110]";
+connectAttr "foot_R_toe_translateX.o" "CarrotRN.phl[111]";
+connectAttr "foot_R_toe_translateY.o" "CarrotRN.phl[112]";
+connectAttr "foot_R_toe_translateZ.o" "CarrotRN.phl[113]";
+connectAttr "foot_R_toe_rotateX.o" "CarrotRN.phl[114]";
+connectAttr "foot_R_toe_rotateY.o" "CarrotRN.phl[115]";
+connectAttr "foot_R_toe_rotateZ.o" "CarrotRN.phl[116]";
+connectAttr "ikHandle_R_leg_translateX.o" "CarrotRN.phl[117]";
+connectAttr "ikHandle_R_leg_translateY.o" "CarrotRN.phl[118]";
+connectAttr "ikHandle_R_leg_translateZ.o" "CarrotRN.phl[119]";
+connectAttr "ikHandle_R_leg_rotateX.o" "CarrotRN.phl[120]";
+connectAttr "ikHandle_R_leg_rotateY.o" "CarrotRN.phl[121]";
+connectAttr "ikHandle_R_leg_rotateZ.o" "CarrotRN.phl[122]";
+connectAttr "ikHandle_R_leg_poleVectorConstraint1_translateX.o" "CarrotRN.phl[123]"
 		;
-connectAttr "ikHandle_R_leg_poleVectorConstraint1_translateY.o" "CarrotRN.phl[117]"
+connectAttr "ikHandle_R_leg_poleVectorConstraint1_translateY.o" "CarrotRN.phl[124]"
 		;
-connectAttr "ikHandle_R_leg_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[118]"
+connectAttr "ikHandle_R_leg_poleVectorConstraint1_translateZ.o" "CarrotRN.phl[125]"
 		;
-connectAttr "ikHandle_R_leg_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[119]"
+connectAttr "ikHandle_R_leg_poleVectorConstraint1_rotateX.o" "CarrotRN.phl[126]"
 		;
-connectAttr "ikHandle_R_leg_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[120]"
+connectAttr "ikHandle_R_leg_poleVectorConstraint1_rotateY.o" "CarrotRN.phl[127]"
 		;
-connectAttr "ikHandle_R_leg_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[121]"
+connectAttr "ikHandle_R_leg_poleVectorConstraint1_rotateZ.o" "CarrotRN.phl[128]"
 		;
-connectAttr "pairBlend2.otx" "CarrotRN.phl[122]";
-connectAttr "pairBlend2.oty" "CarrotRN.phl[123]";
-connectAttr "pairBlend2.otz" "CarrotRN.phl[124]";
-connectAttr "CarrotRN.phl[125]" "pairBlend2.w";
-connectAttr "grp_L_kneeCtrl_rotateX.o" "CarrotRN.phl[126]";
-connectAttr "grp_L_kneeCtrl_rotateY.o" "CarrotRN.phl[127]";
-connectAttr "grp_L_kneeCtrl_rotateZ.o" "CarrotRN.phl[128]";
-connectAttr "control_L_knee_translateX.o" "CarrotRN.phl[129]";
-connectAttr "control_L_knee_translateZ.o" "CarrotRN.phl[130]";
-connectAttr "control_L_knee_translateY.o" "CarrotRN.phl[131]";
-connectAttr "grp_L_kneeCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[132]";
-connectAttr "grp_L_kneeCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[133]";
-connectAttr "grp_L_kneeCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[134]";
-connectAttr "grp_L_kneeCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[135]";
-connectAttr "grp_L_kneeCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[136]";
-connectAttr "grp_L_kneeCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[137]";
-connectAttr "CarrotRN.phl[138]" "pairBlend2.itx2";
-connectAttr "CarrotRN.phl[139]" "pairBlend2.ity2";
-connectAttr "CarrotRN.phl[140]" "pairBlend2.itz2";
-connectAttr "pairBlend3.otx" "CarrotRN.phl[141]";
-connectAttr "pairBlend3.oty" "CarrotRN.phl[142]";
-connectAttr "pairBlend3.otz" "CarrotRN.phl[143]";
-connectAttr "CarrotRN.phl[144]" "pairBlend3.w";
-connectAttr "grp_R_kneeCtrl_rotateX.o" "CarrotRN.phl[145]";
-connectAttr "grp_R_kneeCtrl_rotateY.o" "CarrotRN.phl[146]";
-connectAttr "grp_R_kneeCtrl_rotateZ.o" "CarrotRN.phl[147]";
-connectAttr "control_L_knee1_translateX.o" "CarrotRN.phl[148]";
-connectAttr "control_L_knee1_translateY.o" "CarrotRN.phl[149]";
-connectAttr "control_L_knee1_translateZ.o" "CarrotRN.phl[150]";
-connectAttr "grp_R_kneeCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[151]";
-connectAttr "grp_R_kneeCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[152]";
-connectAttr "grp_R_kneeCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[153]";
-connectAttr "grp_R_kneeCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[154]";
-connectAttr "grp_R_kneeCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[155]";
-connectAttr "grp_R_kneeCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[156]";
-connectAttr "CarrotRN.phl[157]" "pairBlend3.itx2";
-connectAttr "CarrotRN.phl[158]" "pairBlend3.ity2";
-connectAttr "CarrotRN.phl[159]" "pairBlend3.itz2";
-connectAttr "pairBlend4.otx" "CarrotRN.phl[160]";
-connectAttr "pairBlend4.oty" "CarrotRN.phl[161]";
-connectAttr "pairBlend4.otz" "CarrotRN.phl[162]";
-connectAttr "pairBlend6.orx" "CarrotRN.phl[163]";
-connectAttr "pairBlend6.ory" "CarrotRN.phl[164]";
-connectAttr "pairBlend6.orz" "CarrotRN.phl[165]";
-connectAttr "CarrotRN.phl[166]" "pairBlend4.w";
-connectAttr "CarrotRN.phl[167]" "pairBlend6.w";
-connectAttr "control_L_elbow_translateX.o" "CarrotRN.phl[168]";
-connectAttr "control_L_elbow_translateY.o" "CarrotRN.phl[169]";
-connectAttr "control_L_elbow_translateZ.o" "CarrotRN.phl[170]";
-connectAttr "grp_L_elbowCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[171]";
-connectAttr "grp_L_elbowCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[172]";
-connectAttr "grp_L_elbowCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[173]";
-connectAttr "grp_L_elbowCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[174]";
-connectAttr "grp_L_elbowCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[175]";
-connectAttr "grp_L_elbowCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[176]";
-connectAttr "CarrotRN.phl[177]" "pairBlend4.itx2";
-connectAttr "CarrotRN.phl[178]" "pairBlend4.ity2";
-connectAttr "CarrotRN.phl[179]" "pairBlend4.itz2";
-connectAttr "grp_L_elbowCtrl_orientConstraint1_translateX.o" "CarrotRN.phl[180]"
+connectAttr "pairBlend2.otx" "CarrotRN.phl[129]";
+connectAttr "pairBlend2.oty" "CarrotRN.phl[130]";
+connectAttr "pairBlend2.otz" "CarrotRN.phl[131]";
+connectAttr "CarrotRN.phl[132]" "pairBlend2.w";
+connectAttr "grp_L_kneeCtrl_rotateX.o" "CarrotRN.phl[133]";
+connectAttr "grp_L_kneeCtrl_rotateY.o" "CarrotRN.phl[134]";
+connectAttr "grp_L_kneeCtrl_rotateZ.o" "CarrotRN.phl[135]";
+connectAttr "control_L_knee_translateX.o" "CarrotRN.phl[136]";
+connectAttr "control_L_knee_translateZ.o" "CarrotRN.phl[137]";
+connectAttr "control_L_knee_translateY.o" "CarrotRN.phl[138]";
+connectAttr "grp_L_kneeCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[139]";
+connectAttr "grp_L_kneeCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[140]";
+connectAttr "grp_L_kneeCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[141]";
+connectAttr "grp_L_kneeCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[142]";
+connectAttr "grp_L_kneeCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[143]";
+connectAttr "grp_L_kneeCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[144]";
+connectAttr "CarrotRN.phl[145]" "pairBlend2.itx2";
+connectAttr "CarrotRN.phl[146]" "pairBlend2.ity2";
+connectAttr "CarrotRN.phl[147]" "pairBlend2.itz2";
+connectAttr "pairBlend3.otx" "CarrotRN.phl[148]";
+connectAttr "pairBlend3.oty" "CarrotRN.phl[149]";
+connectAttr "pairBlend3.otz" "CarrotRN.phl[150]";
+connectAttr "CarrotRN.phl[151]" "pairBlend3.w";
+connectAttr "grp_R_kneeCtrl_rotateX.o" "CarrotRN.phl[152]";
+connectAttr "grp_R_kneeCtrl_rotateY.o" "CarrotRN.phl[153]";
+connectAttr "grp_R_kneeCtrl_rotateZ.o" "CarrotRN.phl[154]";
+connectAttr "control_L_knee1_translateX.o" "CarrotRN.phl[155]";
+connectAttr "control_L_knee1_translateY.o" "CarrotRN.phl[156]";
+connectAttr "control_L_knee1_translateZ.o" "CarrotRN.phl[157]";
+connectAttr "grp_R_kneeCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[158]";
+connectAttr "grp_R_kneeCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[159]";
+connectAttr "grp_R_kneeCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[160]";
+connectAttr "grp_R_kneeCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[161]";
+connectAttr "grp_R_kneeCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[162]";
+connectAttr "grp_R_kneeCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[163]";
+connectAttr "CarrotRN.phl[164]" "pairBlend3.itx2";
+connectAttr "CarrotRN.phl[165]" "pairBlend3.ity2";
+connectAttr "CarrotRN.phl[166]" "pairBlend3.itz2";
+connectAttr "pairBlend4.otx" "CarrotRN.phl[167]";
+connectAttr "pairBlend4.oty" "CarrotRN.phl[168]";
+connectAttr "pairBlend4.otz" "CarrotRN.phl[169]";
+connectAttr "pairBlend6.orx" "CarrotRN.phl[170]";
+connectAttr "pairBlend6.ory" "CarrotRN.phl[171]";
+connectAttr "pairBlend6.orz" "CarrotRN.phl[172]";
+connectAttr "CarrotRN.phl[173]" "pairBlend4.w";
+connectAttr "CarrotRN.phl[174]" "pairBlend6.w";
+connectAttr "control_L_elbow_translateX.o" "CarrotRN.phl[175]";
+connectAttr "control_L_elbow_translateY.o" "CarrotRN.phl[176]";
+connectAttr "control_L_elbow_translateZ.o" "CarrotRN.phl[177]";
+connectAttr "grp_L_elbowCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[178]";
+connectAttr "grp_L_elbowCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[179]";
+connectAttr "grp_L_elbowCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[180]";
+connectAttr "grp_L_elbowCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[181]";
+connectAttr "grp_L_elbowCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[182]";
+connectAttr "grp_L_elbowCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[183]";
+connectAttr "CarrotRN.phl[184]" "pairBlend4.itx2";
+connectAttr "CarrotRN.phl[185]" "pairBlend4.ity2";
+connectAttr "CarrotRN.phl[186]" "pairBlend4.itz2";
+connectAttr "grp_L_elbowCtrl_orientConstraint1_translateX.o" "CarrotRN.phl[187]"
 		;
-connectAttr "grp_L_elbowCtrl_orientConstraint1_translateY.o" "CarrotRN.phl[181]"
+connectAttr "grp_L_elbowCtrl_orientConstraint1_translateY.o" "CarrotRN.phl[188]"
 		;
-connectAttr "grp_L_elbowCtrl_orientConstraint1_translateZ.o" "CarrotRN.phl[182]"
+connectAttr "grp_L_elbowCtrl_orientConstraint1_translateZ.o" "CarrotRN.phl[189]"
 		;
-connectAttr "grp_L_elbowCtrl_orientConstraint1_rotateX.o" "CarrotRN.phl[183]";
-connectAttr "grp_L_elbowCtrl_orientConstraint1_rotateY.o" "CarrotRN.phl[184]";
-connectAttr "grp_L_elbowCtrl_orientConstraint1_rotateZ.o" "CarrotRN.phl[185]";
-connectAttr "CarrotRN.phl[186]" "pairBlend6.irx2";
-connectAttr "CarrotRN.phl[187]" "pairBlend6.iry2";
-connectAttr "CarrotRN.phl[188]" "pairBlend6.irz2";
-connectAttr "pairBlend5.otx" "CarrotRN.phl[189]";
-connectAttr "pairBlend5.oty" "CarrotRN.phl[190]";
-connectAttr "pairBlend5.otz" "CarrotRN.phl[191]";
-connectAttr "pairBlend7.orx" "CarrotRN.phl[192]";
-connectAttr "pairBlend7.ory" "CarrotRN.phl[193]";
-connectAttr "pairBlend7.orz" "CarrotRN.phl[194]";
-connectAttr "CarrotRN.phl[195]" "pairBlend5.w";
-connectAttr "CarrotRN.phl[196]" "pairBlend7.w";
-connectAttr "control_R_elbow_translateX.o" "CarrotRN.phl[197]";
-connectAttr "control_R_elbow_translateY.o" "CarrotRN.phl[198]";
-connectAttr "control_R_elbow_translateZ.o" "CarrotRN.phl[199]";
-connectAttr "grp_R_elbowCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[200]";
-connectAttr "grp_R_elbowCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[201]";
-connectAttr "grp_R_elbowCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[202]";
-connectAttr "grp_R_elbowCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[203]";
-connectAttr "grp_R_elbowCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[204]";
-connectAttr "grp_R_elbowCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[205]";
-connectAttr "CarrotRN.phl[206]" "pairBlend5.itx2";
-connectAttr "CarrotRN.phl[207]" "pairBlend5.ity2";
-connectAttr "CarrotRN.phl[208]" "pairBlend5.itz2";
-connectAttr "grp_R_elbowCtrl_orientConstraint1_translateX.o" "CarrotRN.phl[209]"
+connectAttr "grp_L_elbowCtrl_orientConstraint1_rotateX.o" "CarrotRN.phl[190]";
+connectAttr "grp_L_elbowCtrl_orientConstraint1_rotateY.o" "CarrotRN.phl[191]";
+connectAttr "grp_L_elbowCtrl_orientConstraint1_rotateZ.o" "CarrotRN.phl[192]";
+connectAttr "CarrotRN.phl[193]" "pairBlend6.irx2";
+connectAttr "CarrotRN.phl[194]" "pairBlend6.iry2";
+connectAttr "CarrotRN.phl[195]" "pairBlend6.irz2";
+connectAttr "pairBlend5.otx" "CarrotRN.phl[196]";
+connectAttr "pairBlend5.oty" "CarrotRN.phl[197]";
+connectAttr "pairBlend5.otz" "CarrotRN.phl[198]";
+connectAttr "pairBlend7.orx" "CarrotRN.phl[199]";
+connectAttr "pairBlend7.ory" "CarrotRN.phl[200]";
+connectAttr "pairBlend7.orz" "CarrotRN.phl[201]";
+connectAttr "CarrotRN.phl[202]" "pairBlend5.w";
+connectAttr "CarrotRN.phl[203]" "pairBlend7.w";
+connectAttr "control_R_elbow_translateX.o" "CarrotRN.phl[204]";
+connectAttr "control_R_elbow_translateY.o" "CarrotRN.phl[205]";
+connectAttr "control_R_elbow_translateZ.o" "CarrotRN.phl[206]";
+connectAttr "grp_R_elbowCtrl_pointConstraint1_translateX.o" "CarrotRN.phl[207]";
+connectAttr "grp_R_elbowCtrl_pointConstraint1_translateY.o" "CarrotRN.phl[208]";
+connectAttr "grp_R_elbowCtrl_pointConstraint1_translateZ.o" "CarrotRN.phl[209]";
+connectAttr "grp_R_elbowCtrl_pointConstraint1_rotateX.o" "CarrotRN.phl[210]";
+connectAttr "grp_R_elbowCtrl_pointConstraint1_rotateY.o" "CarrotRN.phl[211]";
+connectAttr "grp_R_elbowCtrl_pointConstraint1_rotateZ.o" "CarrotRN.phl[212]";
+connectAttr "CarrotRN.phl[213]" "pairBlend5.itx2";
+connectAttr "CarrotRN.phl[214]" "pairBlend5.ity2";
+connectAttr "CarrotRN.phl[215]" "pairBlend5.itz2";
+connectAttr "grp_R_elbowCtrl_orientConstraint1_translateX.o" "CarrotRN.phl[216]"
 		;
-connectAttr "grp_R_elbowCtrl_orientConstraint1_translateY.o" "CarrotRN.phl[210]"
+connectAttr "grp_R_elbowCtrl_orientConstraint1_translateY.o" "CarrotRN.phl[217]"
 		;
-connectAttr "grp_R_elbowCtrl_orientConstraint1_translateZ.o" "CarrotRN.phl[211]"
+connectAttr "grp_R_elbowCtrl_orientConstraint1_translateZ.o" "CarrotRN.phl[218]"
 		;
-connectAttr "grp_R_elbowCtrl_orientConstraint1_rotateX.o" "CarrotRN.phl[212]";
-connectAttr "grp_R_elbowCtrl_orientConstraint1_rotateY.o" "CarrotRN.phl[213]";
-connectAttr "grp_R_elbowCtrl_orientConstraint1_rotateZ.o" "CarrotRN.phl[214]";
-connectAttr "CarrotRN.phl[215]" "pairBlend7.irx2";
-connectAttr "CarrotRN.phl[216]" "pairBlend7.iry2";
-connectAttr "CarrotRN.phl[217]" "pairBlend7.irz2";
-connectAttr "grp_locators_parentConstraint1_translateX.o" "CarrotRN.phl[218]";
-connectAttr "grp_locators_parentConstraint1_translateY.o" "CarrotRN.phl[219]";
-connectAttr "grp_locators_parentConstraint1_translateZ.o" "CarrotRN.phl[220]";
-connectAttr "grp_locators_parentConstraint1_rotateX.o" "CarrotRN.phl[221]";
-connectAttr "grp_locators_parentConstraint1_rotateY.o" "CarrotRN.phl[222]";
-connectAttr "grp_locators_parentConstraint1_rotateZ.o" "CarrotRN.phl[223]";
-connectAttr "CarrotRN.phl[224]" "pairBlend1.itx2";
-connectAttr "CarrotRN.phl[225]" "pairBlend1.ity2";
-connectAttr "CarrotRN.phl[226]" "pairBlend1.itz2";
-connectAttr "CarrotRN.phl[227]" "pairBlend1.irx2";
-connectAttr "CarrotRN.phl[228]" "pairBlend1.iry2";
-connectAttr "CarrotRN.phl[229]" "pairBlend1.irz2";
-connectAttr "grp_locators_scaleConstraint1_translateX.o" "CarrotRN.phl[230]";
-connectAttr "grp_locators_scaleConstraint1_translateY.o" "CarrotRN.phl[231]";
-connectAttr "grp_locators_scaleConstraint1_translateZ.o" "CarrotRN.phl[232]";
-connectAttr "grp_locators_scaleConstraint1_rotateX.o" "CarrotRN.phl[233]";
-connectAttr "grp_locators_scaleConstraint1_rotateY.o" "CarrotRN.phl[234]";
-connectAttr "grp_locators_scaleConstraint1_rotateZ.o" "CarrotRN.phl[235]";
+connectAttr "grp_R_elbowCtrl_orientConstraint1_rotateX.o" "CarrotRN.phl[219]";
+connectAttr "grp_R_elbowCtrl_orientConstraint1_rotateY.o" "CarrotRN.phl[220]";
+connectAttr "grp_R_elbowCtrl_orientConstraint1_rotateZ.o" "CarrotRN.phl[221]";
+connectAttr "CarrotRN.phl[222]" "pairBlend7.irx2";
+connectAttr "CarrotRN.phl[223]" "pairBlend7.iry2";
+connectAttr "CarrotRN.phl[224]" "pairBlend7.irz2";
+connectAttr "grp_locators_parentConstraint1_translateX.o" "CarrotRN.phl[225]";
+connectAttr "grp_locators_parentConstraint1_translateY.o" "CarrotRN.phl[226]";
+connectAttr "grp_locators_parentConstraint1_translateZ.o" "CarrotRN.phl[227]";
+connectAttr "grp_locators_parentConstraint1_rotateX.o" "CarrotRN.phl[228]";
+connectAttr "grp_locators_parentConstraint1_rotateY.o" "CarrotRN.phl[229]";
+connectAttr "grp_locators_parentConstraint1_rotateZ.o" "CarrotRN.phl[230]";
+connectAttr "CarrotRN.phl[231]" "pairBlend1.iry2";
+connectAttr "CarrotRN.phl[232]" "pairBlend1.irx2";
+connectAttr "CarrotRN.phl[233]" "pairBlend1.irz2";
+connectAttr "CarrotRN.phl[234]" "pairBlend1.itx2";
+connectAttr "CarrotRN.phl[235]" "pairBlend1.ity2";
+connectAttr "CarrotRN.phl[236]" "pairBlend1.itz2";
+connectAttr "grp_locators_scaleConstraint1_translateX.o" "CarrotRN.phl[237]";
+connectAttr "grp_locators_scaleConstraint1_translateY.o" "CarrotRN.phl[238]";
+connectAttr "grp_locators_scaleConstraint1_translateZ.o" "CarrotRN.phl[239]";
+connectAttr "grp_locators_scaleConstraint1_rotateX.o" "CarrotRN.phl[240]";
+connectAttr "grp_locators_scaleConstraint1_rotateY.o" "CarrotRN.phl[241]";
+connectAttr "grp_locators_scaleConstraint1_rotateZ.o" "CarrotRN.phl[242]";
+connectAttr "grp_trash_parentConstraint1.ctx" "grp_trash.tx";
+connectAttr "grp_trash_parentConstraint1.cty" "grp_trash.ty";
+connectAttr "grp_trash_parentConstraint1.ctz" "grp_trash.tz";
+connectAttr "grp_trash_parentConstraint1.crx" "grp_trash.rx";
+connectAttr "grp_trash_parentConstraint1.cry" "grp_trash.ry";
+connectAttr "grp_trash_parentConstraint1.crz" "grp_trash.rz";
+connectAttr "grp_trash.ro" "grp_trash_parentConstraint1.cro";
+connectAttr "grp_trash.pim" "grp_trash_parentConstraint1.cpim";
+connectAttr "grp_trash.rp" "grp_trash_parentConstraint1.crp";
+connectAttr "grp_trash.rpt" "grp_trash_parentConstraint1.crt";
+connectAttr "grp_trash_parentConstraint1.w0" "grp_trash_parentConstraint1.tg[0].tw"
+		;
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
