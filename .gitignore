@@ -11,6 +11,10 @@ images/tmp/
 Output/
 movies/
 
+# Swatches
+*.mayaSwatches
+*.mb.swatches
+
 # User-specific files
 *.suo
 *.user
